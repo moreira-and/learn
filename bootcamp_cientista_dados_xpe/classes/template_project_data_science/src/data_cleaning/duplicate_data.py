@@ -1,8 +1,8 @@
 import pandas as pd
 
 ## COLOCAR TRATATIVA DE ERRO NAS FUNÇÕES
-
-def count_duplicates(dataframe: pd.DataFrame):
+## = na declaração é valor default
+def count_duplicates(dataframe: pd.DataFrame = pd.DataFrame({'C1':[0,1,2,3],'C2':[4,5,6,7]})):
     
     '''
     Retorna a quantidade de dados duplicados em um dataframe.
