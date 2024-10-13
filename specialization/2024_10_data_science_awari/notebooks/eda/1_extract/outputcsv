@@ -1,0 +1,155 @@
+,Texto
+0,Inicia sua Jornada aqui!
+1,
+2,Introdução a Data Science
+3,Seu Material para o Curso
+4,Roteiro da 1ª Aula
+5,Vídeo: Conceitos de Base
+6,Quiz: Perfil da Turma
+7,Slides e Gravação de Aula: O que é Data Science?
+8,Slides: Google Colab
+9,Prática: Codando no Colab
+10,Leitura: Visão Geral de Data Science
+11,Leitura: Ciclos de Projetos na Área
+12,Leitura: Pensamento Analítico e Científico
+13,Leitura: Por que Interessa a Negócios?
+14,Leitura: Principais Tecnologias
+15,Faça para a 2ª Aula
+16,Matemática para Data Science
+17,Roteiro da 2ª Aula
+18,Slides e Gravação de Aula: Revisão Matemática
+19,Prática: Matemática Básica no Colab
+20,Leitura: Pensamento Analítico e Científico
+21,Leitura: Por que Interessa a Negócios?
+22,"Leitura: Dado, Informação e Conhecimento"
+23,Leitura: Decisões Informadas por Dados
+24,Faça para a 3ª Aula
+25,Linguagem Python
+26,Roteiro da 3ª Aula
+27,Slides e Gravação de Aula: Boas-vindas a Python
+28,Prática: Primeiro Contato com Python
+29,Leitura: Visão Geral de Python
+30,Leitura: Primeiros Passos na Linguagem
+31,Leitura: Funções e Classes em Python
+32,Leitura: Mais Recursos Embutidos
+33,Faça para a 4ª Aula
+34,Bibliotecas Python
+35,Roteiro da 4ª Aula
+36,Slides e Gravação de Aula: Bibliotecas Python
+37,Prática: Arrays com Numpy
+38,Prática: Manipulação com Pandas
+39,Prática: Gráficos com Matplotlib
+40,Prática: Gráficos com Seaborn
+41,Leitura: Numpy e Álgebra Linear
+42,Leitura: Pandas para Análise de Dados
+43,Leitura: Gráficos com Matplotlib e Seaborn
+44,Faça para a 5ª Aula
+45,Coleta de Dados
+46,Roteiro da 5ª Aula
+47,Slides e Gravação de Aula: Fontes de Dados
+48,Vídeo: Definindo a Coleta de Dados
+49,Prática: Importando CSV
+50,Prática: Importando do Google Drive
+51,Prática: Importando JSON
+52,Prática: Obtendo Dados de API
+53,Prática: Web Scraping com Selenium
+54,Vídeo: Manipulação de Dados
+55,Leitura: JSON e APIs
+56,Leitura: Importando Dados com Web Scraping
+57,Faça para a 6ª Aula
+58,Bancos de Dados e SQL
+59,Roteiro da 6ª Aula
+60,Slides e Gravação de Aula: Bancos de Dados e SQL
+61,Prática: SQL com Python e SQLite
+62,Vídeo: SQL e Bancos de Dados
+63,Leitura: Conceitos e Tipos de Bancos de Dados
+64,Leitura: Linguagem SQL
+65,Ferramentas de Big Data
+66,Faça para a 7ª Aula
+67,Estatística Descritiva e EDA
+68,Roteiro da 7ª Aula
+69,Slides e Gravação de Aula: Introdução à Estatística
+70,Prática: Análise Exploratória de Dados
+71,Prática: Tratamento Estatístico de Dados
+72,Prática: Manipulação Avançada de Dados
+73,"Vídeo: EDA, Estatística e Conceitos"
+74,Leitura: Limpeza de Dados
+75,Leitura: Transformando Dados
+76,Leitura: Introdução à Estatística
+77,Leitura: EDA e Estatística Descritiva
+78,Vídeo: Aprofundando em EDA
+79,Faça para a 8ª Aula
+80,Medidas de Variabilidade
+81,Roteiro da 8ª Aula
+82,Slides e Gravação de Aula: Medidas de Variabilidade
+83,Prática: Dados Musicais do Spotify
+84,Prática: Análise de Preços de Carros
+85,Leitura: Vieses Cognitivos
+86,Faça para a 9ª Aula
+87,Estatística Inferencial e Probabilidade
+88,Roteiro da 9ª Aula
+89,Slides e Gravação de Aula: Estatística Inferencial e Probabilidade
+90,Prática: Teoria das Probabilidades
+91,Leitura: Estatística Inferencial
+92,Leitura: Probabilidade
+93,Faça para a 10ª Aula
+94,Distribuições Estatísticas
+95,Roteiro da 10ª Aula
+96,Slides e Gravação de Aula: Distribuições Estatísticas
+97,Prática: Distribuições Contínuas
+98,Prática: Distribuições Discretas
+99,Prática: Teorema Central do Limite
+100,Leitura: Séries Temporais
+101,Faça para a 11ª Aula
+102,Machine Learning
+103,Roteiro da 11ª Aula
+104,Slides e Gravação de Aula: Machine Learning
+105,Prática: Machine Learning com Titanic
+106,Leitura: Conceitos de Machine Learning
+107,Vídeo: Feature Engineering
+108,Leitura: Iniciando em Scikit-Learn
+109,Vídeo: Machine Learning
+110,Faça para a 12ª Aula
+111,Supervised Learning
+112,Roteiro da 12ª Aula
+113,Slides e Gravação de Aula: Supervised Learning
+114,Prática: Regressão Linear Simples
+115,Prática: Classificação com Decision Tree
+116,Leitura: Algoritmos de Regressão
+117,Leitura: Algoritmos de Classificação
+118,Faça para a 13ª Aula
+119,Unsupervised Learning
+120,Roteiro da 13ª Aula
+121,Slides e Gravação de Aula: Unsupervised Learning
+122,Prática: Agrupamento por K-Means
+123,Prática: Clustering com DBSCAN
+124,Leitura: Algoritmos de Agrupamento
+125,Faça para a 14ª Aula
+126,Deep Learning
+127,Roteiro da 14ª Aula
+128,Slides e Gravação de Aula: Deep Learning
+129,Prática: NLP com Spacy
+130,Prática: Computer Vision com CNN
+131,Faça para a 15ª Aula
+132,"Feature Engineering, Métricas e Deploy"
+133,Roteiro da 15ª Aula
+134,"Slides e Gravação de Aula: Feature Engineering, Métricas e Deploy"
+135,Prática: Métricas de Classificação e Regressão
+136,Prática: Deploy com Flask e FastAPI
+137,Leitura: Implementando Modelos
+138,Leitura: Python Web Frameworks
+139,Leitura: MLOps e Monitoramento
+140,Faça para a 16ª Aula
+141,Dataviz e Data Storytelling
+142,Roteiro da 16ª Aula
+143,Slides e Gravação de Aula: Dataviz e Data Storytelling
+144,Prática: Plotando os Principais Gráficos
+145,Quiz: Conclusão do Curso
+146,Leitura: Design de Gráficos e Dashboards
+147,Leitura: Benefícios de Dataviz
+148,Leitura: Data Storytelling
+149,Leitura: Comunicação Assertiva de Dados
+150,Leitura: Posicionamento de Carreira
+151,"Leitura: Livros, Artigos e Referências"
+152,Leitura: Encontrando a Comunidade
+153,Continue a se Desenvolver!
