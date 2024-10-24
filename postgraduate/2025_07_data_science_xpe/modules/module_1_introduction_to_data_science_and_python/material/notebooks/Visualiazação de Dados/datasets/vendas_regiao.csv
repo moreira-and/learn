@@ -1,0 +1,1001 @@
+ID_Cliente,Nome_Cliente,id_estado,sigla,estado,regiao,ID_Venda,Data,SKU_Produto,Categoria,Nome_Produto,Quantidade,Preco,valor_venda,Canal
+1,Sr. Enzo Gabriel Azevedo,22,RO,Rondônia,Norte,33,2023-05-18,SKU-53822,Brinquedos,Quebra-cabeça,10,122.47,1224.7,Loja Física
+1,Sr. Enzo Gabriel Azevedo,22,RO,Rondônia,Norte,844,2023-03-30,SKU-97371,Esporte,Patins,3,237.06,711.1800000000001,Loja Física
+2,Srta. Kamilly da Rocha,4,AM,Amazonas,Norte,931,2023-12-28,SKU-50582,Eletrônicos,Laptop,5,4526.6,22633.0,Online
+3,Amanda Farias,10,MA,Maranhão,Nordeste,82,2023-11-22,SKU-97371,Esporte,Patins,8,237.06,1896.48,Online
+3,Amanda Farias,10,MA,Maranhão,Nordeste,373,2023-01-14,SKU-69331,Casa,Organizador de Gavetas,3,136.47,409.40999999999997,Online
+3,Amanda Farias,10,MA,Maranhão,Nordeste,650,2023-01-15,SKU-59806,Casa,Jogo de Lençol,7,498.24,3487.6800000000003,Online
+3,Amanda Farias,10,MA,Maranhão,Nordeste,667,2023-06-20,SKU-50055,Esporte,Luva de Boxe,10,98.09,980.9000000000001,Online
+4,André Castro,12,MS,Mato Grosso do Sul,Centro-Oeste,247,2023-08-21,SKU-47207,Esporte,Bicicleta Mountain Bike,3,1671.59,5014.7699999999995,Online
+4,André Castro,12,MS,Mato Grosso do Sul,Centro-Oeste,510,2023-08-05,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,5,128.9,644.5,Online
+6,Luiz Otávio Correia,7,DF,Distrito Federal,Centro-Oeste,726,2023-07-04,SKU-59736,Roupas,Blusa de Moletom,4,154.46,617.84,Loja Física
+6,Luiz Otávio Correia,7,DF,Distrito Federal,Centro-Oeste,895,2023-08-29,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,10,128.9,1289.0,Loja Física
+7,Miguel Moraes,8,ES,Espírito Santo,Sudeste,122,2023-04-07,SKU-73390,Casa,Luminária de Mesa,7,35.83,250.81,Online
+7,Miguel Moraes,8,ES,Espírito Santo,Sudeste,539,2023-02-05,SKU-74214,Casa,Conjunto de Panelas,1,634.4,634.4,Online
+8,Carlos Eduardo Ferreira,14,PA,Pará,Norte,601,2023-08-12,SKU-20895,Casa,Espelho de Parede,4,226.92,907.68,Online
+9,Isabella Ferreira,23,RR,Roraima,Norte,169,2023-10-22,SKU-25095,Brinquedos,Jogo de Tabuleiro,6,190.34,1142.04,Online
+9,Isabella Ferreira,23,RR,Roraima,Norte,175,2023-04-10,SKU-68873,Casa,Cafeteira Elétrica,10,750.7,7507.0,Online
+9,Isabella Ferreira,23,RR,Roraima,Norte,196,2023-03-18,SKU-94109,Brinquedos,Kit de Cozinha Infantil,1,136.43,136.43,Online
+9,Isabella Ferreira,23,RR,Roraima,Norte,651,2023-06-09,SKU-72849,Casa,Cortina Blackout,4,234.54,938.16,Online
+10,Alexandre Pinto,19,RJ,Rio de Janeiro,Sudeste,433,2023-10-09,SKU-72849,Casa,Cortina Blackout,3,234.54,703.62,Loja Física
+11,Guilherme Duarte,7,DF,Distrito Federal,Centro-Oeste,274,2023-11-01,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,7,128.9,902.3000000000001,Loja Física
+11,Guilherme Duarte,7,DF,Distrito Federal,Centro-Oeste,394,2023-02-26,SKU-37178,Eletrônicos,Carregador Portátil,6,53.67,322.02,Loja Física
+12,Ana Laura Melo,13,MG,Minas Gerais,Sudeste,60,2023-02-26,SKU-67575,Esporte,Raquete de Tênis,4,379.94,1519.76,Online
+12,Ana Laura Melo,13,MG,Minas Gerais,Sudeste,166,2023-03-05,SKU-59806,Casa,Jogo de Lençol,8,498.24,3985.92,Online
+12,Ana Laura Melo,13,MG,Minas Gerais,Sudeste,568,2023-04-28,SKU-69331,Casa,Organizador de Gavetas,9,136.47,1228.23,Online
+12,Ana Laura Melo,13,MG,Minas Gerais,Sudeste,709,2023-08-25,SKU-20895,Casa,Espelho de Parede,6,226.92,1361.52,Online
+13,Igor Cavalcanti,12,MS,Mato Grosso do Sul,Centro-Oeste,31,2023-12-16,SKU-67575,Esporte,Raquete de Tênis,9,379.94,3419.46,Loja Física
+13,Igor Cavalcanti,12,MS,Mato Grosso do Sul,Centro-Oeste,208,2023-02-24,SKU-10889,Eletrônicos,Câmera Digital,3,5602.01,16806.03,Loja Física
+13,Igor Cavalcanti,12,MS,Mato Grosso do Sul,Centro-Oeste,938,2023-09-29,SKU-37178,Eletrônicos,Carregador Portátil,2,53.67,107.34,Loja Física
+13,Igor Cavalcanti,12,MS,Mato Grosso do Sul,Centro-Oeste,948,2023-02-01,SKU-11521,Brinquedos,Boneca,4,142.37,569.48,Loja Física
+14,Giovanna Silveira,18,PI,Piauí,Nordeste,492,2023-04-02,SKU-31191,Esporte,Esteira Elétrica,6,1862.8,11176.8,Loja Física
+14,Giovanna Silveira,18,PI,Piauí,Nordeste,549,2023-05-17,SKU-36297,Roupas,Jaqueta de Couro,1,1959.53,1959.53,Loja Física
+15,Dra. Sofia Correia,13,MG,Minas Gerais,Sudeste,822,2023-10-06,SKU-28878,Roupas,Calça Jeans,7,123.17,862.19,Online
+16,Joaquim Pereira,17,PE,Pernambuco,Nordeste,511,2023-01-29,SKU-25095,Brinquedos,Jogo de Tabuleiro,5,190.34,951.7,Online
+16,Joaquim Pereira,17,PE,Pernambuco,Nordeste,663,2023-08-31,SKU-97371,Esporte,Patins,1,237.06,237.06,Online
+16,Joaquim Pereira,17,PE,Pernambuco,Nordeste,704,2023-08-03,SKU-56364,Casa,Conjunto de Talheres,1,68.89,68.89,Online
+16,Joaquim Pereira,17,PE,Pernambuco,Nordeste,905,2023-05-27,SKU-25929,Esporte,Mochila de Hidratação,7,295.55,2068.85,Online
+17,Srta. Beatriz Cardoso,13,MG,Minas Gerais,Sudeste,556,2023-11-10,SKU-91071,Roupas,Sapatilhas Femininas,6,150.05,900.3000000000001,Loja Física
+18,Sra. Ana Lívia da Luz,3,AP,Amapá,Norte,190,2023-12-19,SKU-31191,Esporte,Esteira Elétrica,1,1862.8,1862.8,Loja Física
+18,Sra. Ana Lívia da Luz,3,AP,Amapá,Norte,773,2023-06-06,SKU-56364,Casa,Conjunto de Talheres,10,68.89,688.9,Loja Física
+19,Camila Mendes,13,MG,Minas Gerais,Sudeste,109,2023-04-08,SKU-25095,Brinquedos,Jogo de Tabuleiro,8,190.34,1522.72,Loja Física
+19,Camila Mendes,13,MG,Minas Gerais,Sudeste,437,2023-01-22,SKU-99850,Roupas,Vestido Feminino,7,354.77,2483.39,Loja Física
+19,Camila Mendes,13,MG,Minas Gerais,Sudeste,626,2023-07-20,SKU-67575,Esporte,Raquete de Tênis,9,379.94,3419.46,Loja Física
+20,Juan Costa,9,GO,Goiás,Centro-Oeste,51,2023-09-07,SKU-37178,Eletrônicos,Carregador Portátil,5,53.67,268.35,Online
+20,Juan Costa,9,GO,Goiás,Centro-Oeste,302,2023-08-06,SKU-56364,Casa,Conjunto de Talheres,10,68.89,688.9,Online
+20,Juan Costa,9,GO,Goiás,Centro-Oeste,681,2023-03-20,SKU-77662,Esporte,Tapete de Yoga,3,80.11,240.32999999999998,Online
+21,Srta. Maria Clara Barbosa,24,SC,Santa Catarina,Sul,61,2023-08-16,SKU-20568,Eletrônicos,Roteador Wi-Fi,10,491.41,4914.1,Online
+21,Srta. Maria Clara Barbosa,24,SC,Santa Catarina,Sul,197,2023-09-14,SKU-69331,Casa,Organizador de Gavetas,1,136.47,136.47,Online
+22,Lorenzo Souza,15,PB,Paraíba,Nordeste,242,2023-10-01,SKU-37873,Casa,Ventilador de Mesa,4,270.78,1083.12,Online
+22,Lorenzo Souza,15,PB,Paraíba,Nordeste,499,2023-01-06,SKU-30676,Brinquedos,Urso de Pelúcia,10,93.4,934.0,Online
+22,Lorenzo Souza,15,PB,Paraíba,Nordeste,864,2023-07-03,SKU-68873,Casa,Cafeteira Elétrica,9,750.7,6756.3,Online
+24,Theo Fernandes,6,CE,Ceará,Nordeste,41,2023-12-07,SKU-72688,Eletrônicos,Smartphone,1,2718.36,2718.36,Online
+24,Theo Fernandes,6,CE,Ceará,Nordeste,333,2023-01-22,SKU-35933,Esporte,Halteres de Academia,6,249.82,1498.92,Online
+24,Theo Fernandes,6,CE,Ceará,Nordeste,371,2023-04-09,SKU-46571,Roupas,Camisa Social,9,166.94,1502.46,Online
+24,Theo Fernandes,6,CE,Ceará,Nordeste,857,2023-12-31,SKU-37873,Casa,Ventilador de Mesa,1,270.78,270.78,Online
+25,Sarah Alves,21,RS,Rio Grande do Sul,Sul,573,2023-04-02,SKU-92162,Eletrônicos,Alto-falante Bluetooth,6,1198.31,7189.86,Loja Física
+27,Agatha Teixeira,5,BA,Bahia,Nordeste,505,2023-05-30,SKU-86759,Eletrônicos,Smartwatch,2,185.34,370.68,Loja Física
+27,Agatha Teixeira,5,BA,Bahia,Nordeste,860,2023-04-16,SKU-94109,Brinquedos,Kit de Cozinha Infantil,8,136.43,1091.44,Loja Física
+27,Agatha Teixeira,5,BA,Bahia,Nordeste,863,2023-06-22,SKU-22668,Brinquedos,Carrinho de Controle Remoto,4,273.79,1095.16,Loja Física
+28,Sr. Vinicius das Neves,4,AM,Amazonas,Norte,25,2023-09-22,SKU-30274,Brinquedos,Kit de Desenho,7,148.7,1040.8999999999999,Loja Física
+28,Sr. Vinicius das Neves,4,AM,Amazonas,Norte,506,2023-11-13,SKU-20895,Casa,Espelho de Parede,2,226.92,453.84,Loja Física
+29,Bruno Pereira,3,AP,Amapá,Norte,75,2023-04-06,SKU-22668,Brinquedos,Carrinho de Controle Remoto,3,273.79,821.3700000000001,Online
+29,Bruno Pereira,3,AP,Amapá,Norte,138,2023-07-07,SKU-26147,Esporte,Skate,9,157.01,1413.09,Online
+29,Bruno Pereira,3,AP,Amapá,Norte,975,2023-08-17,SKU-35933,Esporte,Halteres de Academia,6,249.82,1498.92,Online
+30,Davi Lucas Cunha,17,PE,Pernambuco,Nordeste,32,2023-04-28,SKU-68873,Casa,Cafeteira Elétrica,1,750.7,750.7,Loja Física
+30,Davi Lucas Cunha,17,PE,Pernambuco,Nordeste,199,2023-05-14,SKU-30676,Brinquedos,Urso de Pelúcia,2,93.4,186.8,Loja Física
+30,Davi Lucas Cunha,17,PE,Pernambuco,Nordeste,780,2023-09-24,SKU-10344,Brinquedos,Brinquedo Educativo,8,79.47,635.76,Loja Física
+31,Pietro Cardoso,15,PB,Paraíba,Nordeste,929,2023-08-20,SKU-21352,Roupas,Saia Midi,4,123.24,492.96,Online
+32,João Guilherme Costa,22,RO,Rondônia,Norte,263,2023-12-03,SKU-36297,Roupas,Jaqueta de Couro,6,1959.53,11757.18,Online
+32,João Guilherme Costa,22,RO,Rondônia,Norte,355,2023-03-21,SKU-68595,Roupas,Camiseta Masculina,2,47.57,95.14,Online
+32,João Guilherme Costa,22,RO,Rondônia,Norte,520,2023-10-09,SKU-47207,Esporte,Bicicleta Mountain Bike,5,1671.59,8357.949999999999,Online
+33,Evelyn Sales,24,SC,Santa Catarina,Sul,77,2023-10-25,SKU-56364,Casa,Conjunto de Talheres,7,68.89,482.23,Loja Física
+33,Evelyn Sales,24,SC,Santa Catarina,Sul,736,2023-10-05,SKU-56364,Casa,Conjunto de Talheres,8,68.89,551.12,Loja Física
+35,Sr. Benjamin Correia,2,AL,Alagoas,Nordeste,593,2023-12-22,SKU-10889,Eletrônicos,Câmera Digital,3,5602.01,16806.03,Online
+37,Ana Carolina Melo,23,RR,Roraima,Norte,802,2023-08-02,SKU-28878,Roupas,Calça Jeans,5,123.17,615.85,Online
+38,Breno Costela,11,MT,Mato Grosso,Centro-Oeste,352,2023-10-29,SKU-30676,Brinquedos,Urso de Pelúcia,2,93.4,186.8,Online
+38,Breno Costela,11,MT,Mato Grosso,Centro-Oeste,455,2023-07-13,SKU-37178,Eletrônicos,Carregador Portátil,6,53.67,322.02,Online
+39,Brenda Moura,27,TO,Tocantins,Norte,299,2023-01-15,SKU-19189,Brinquedos,Blocos de Montar,2,167.64,335.28,Online
+39,Brenda Moura,27,TO,Tocantins,Norte,858,2023-12-27,SKU-47220,Roupas,Tênis Esportivo,5,164.48,822.4,Online
+40,Lavínia Castro,12,MS,Mato Grosso do Sul,Centro-Oeste,414,2023-01-09,SKU-56364,Casa,Conjunto de Talheres,3,68.89,206.67000000000002,Online
+40,Lavínia Castro,12,MS,Mato Grosso do Sul,Centro-Oeste,430,2023-04-04,SKU-50582,Eletrônicos,Laptop,8,4526.6,36212.8,Online
+40,Lavínia Castro,12,MS,Mato Grosso do Sul,Centro-Oeste,552,2023-07-27,SKU-99850,Roupas,Vestido Feminino,8,354.77,2838.16,Online
+40,Lavínia Castro,12,MS,Mato Grosso do Sul,Centro-Oeste,664,2023-01-09,SKU-37873,Casa,Ventilador de Mesa,5,270.78,1353.8999999999999,Online
+43,Daniel Lima,24,SC,Santa Catarina,Sul,590,2023-09-25,SKU-59736,Roupas,Blusa de Moletom,1,154.46,154.46,Loja Física
+44,Davi Lucas Duarte,7,DF,Distrito Federal,Centro-Oeste,146,2023-11-24,SKU-53822,Brinquedos,Quebra-cabeça,1,122.47,122.47,Loja Física
+45,João Lucas da Paz,6,CE,Ceará,Nordeste,163,2023-08-18,SKU-79560,Brinquedos,Patinete Infantil,4,131.58,526.32,Loja Física
+46,Sra. Fernanda Ramos,26,SE,Sergipe,Nordeste,343,2023-05-28,SKU-47207,Esporte,Bicicleta Mountain Bike,5,1671.59,8357.949999999999,Loja Física
+47,Mariane Pereira,8,ES,Espírito Santo,Sudeste,27,2023-03-20,SKU-68595,Roupas,Camiseta Masculina,3,47.57,142.71,Loja Física
+47,Mariane Pereira,8,ES,Espírito Santo,Sudeste,229,2023-04-05,SKU-56364,Casa,Conjunto de Talheres,1,68.89,68.89,Loja Física
+47,Mariane Pereira,8,ES,Espírito Santo,Sudeste,337,2023-08-02,SKU-31191,Esporte,Esteira Elétrica,2,1862.8,3725.6,Loja Física
+47,Mariane Pereira,8,ES,Espírito Santo,Sudeste,393,2023-10-06,SKU-30676,Brinquedos,Urso de Pelúcia,2,93.4,186.8,Loja Física
+47,Mariane Pereira,8,ES,Espírito Santo,Sudeste,830,2023-08-24,SKU-91071,Roupas,Sapatilhas Femininas,2,150.05,300.1,Loja Física
+47,Mariane Pereira,8,ES,Espírito Santo,Sudeste,979,2023-11-02,SKU-26147,Esporte,Skate,8,157.01,1256.08,Loja Física
+48,Rafaela Carvalho,20,RN,Rio Grande do Norte,Nordeste,144,2023-09-08,SKU-56364,Casa,Conjunto de Talheres,5,68.89,344.45,Online
+48,Rafaela Carvalho,20,RN,Rio Grande do Norte,Nordeste,896,2023-05-27,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,1,128.9,128.9,Online
+49,Davi Lucca Cardoso,12,MS,Mato Grosso do Sul,Centro-Oeste,179,2023-07-04,SKU-36297,Roupas,Jaqueta de Couro,2,1959.53,3919.06,Loja Física
+53,Dr. Erick Gonçalves,19,RJ,Rio de Janeiro,Sudeste,416,2023-02-28,SKU-59736,Roupas,Blusa de Moletom,1,154.46,154.46,Online
+53,Dr. Erick Gonçalves,19,RJ,Rio de Janeiro,Sudeste,461,2023-08-22,SKU-30274,Brinquedos,Kit de Desenho,6,148.7,892.1999999999999,Online
+53,Dr. Erick Gonçalves,19,RJ,Rio de Janeiro,Sudeste,686,2023-05-08,SKU-74214,Casa,Conjunto de Panelas,7,634.4,4440.8,Online
+53,Dr. Erick Gonçalves,19,RJ,Rio de Janeiro,Sudeste,793,2023-01-06,SKU-68595,Roupas,Camiseta Masculina,3,47.57,142.71,Online
+54,Gabriela Lopes,27,TO,Tocantins,Norte,155,2023-02-18,SKU-30676,Brinquedos,Urso de Pelúcia,3,93.4,280.20000000000005,Loja Física
+54,Gabriela Lopes,27,TO,Tocantins,Norte,342,2023-06-19,SKU-31191,Esporte,Esteira Elétrica,8,1862.8,14902.4,Loja Física
+55,Lucca Campos,14,PA,Pará,Norte,250,2023-07-22,SKU-47220,Roupas,Tênis Esportivo,10,164.48,1644.8,Loja Física
+55,Lucca Campos,14,PA,Pará,Norte,608,2023-03-11,SKU-10344,Brinquedos,Brinquedo Educativo,7,79.47,556.29,Loja Física
+56,Isabel Sales,27,TO,Tocantins,Norte,615,2023-09-28,SKU-67575,Esporte,Raquete de Tênis,4,379.94,1519.76,Online
+57,Isaac Azevedo,25,SP,São Paulo,Sudeste,843,2023-10-01,SKU-56131,Roupas,Shorts de Verão,2,112.14,224.28,Online
+60,Sr. Luiz Gustavo Novaes,27,TO,Tocantins,Norte,289,2023-04-10,SKU-92162,Eletrônicos,Alto-falante Bluetooth,1,1198.31,1198.31,Loja Física
+62,Sr. Vitor da Mota,16,PR,Paraná,Sul,340,2023-10-21,SKU-37873,Casa,Ventilador de Mesa,8,270.78,2166.24,Loja Física
+62,Sr. Vitor da Mota,16,PR,Paraná,Sul,679,2023-05-29,SKU-74214,Casa,Conjunto de Panelas,7,634.4,4440.8,Loja Física
+63,Sr. Fernando Peixoto,4,AM,Amazonas,Norte,462,2023-03-17,SKU-11521,Brinquedos,Boneca,10,142.37,1423.7,Online
+63,Sr. Fernando Peixoto,4,AM,Amazonas,Norte,790,2023-11-20,SKU-46571,Roupas,Camisa Social,8,166.94,1335.52,Online
+63,Sr. Fernando Peixoto,4,AM,Amazonas,Norte,971,2023-02-25,SKU-28878,Roupas,Calça Jeans,6,123.17,739.02,Online
+64,Sra. Maria Fernanda Gonçalves,1,AC,Acre,Norte,56,2023-06-30,SKU-99850,Roupas,Vestido Feminino,7,354.77,2483.39,Loja Física
+64,Sra. Maria Fernanda Gonçalves,1,AC,Acre,Norte,251,2023-06-24,SKU-91071,Roupas,Sapatilhas Femininas,3,150.05,450.15000000000003,Loja Física
+65,Julia Novaes,25,SP,São Paulo,Sudeste,99,2023-09-07,SKU-50055,Esporte,Luva de Boxe,4,98.09,392.36,Loja Física
+65,Julia Novaes,25,SP,São Paulo,Sudeste,150,2023-05-12,SKU-68595,Roupas,Camiseta Masculina,9,47.57,428.13,Loja Física
+65,Julia Novaes,25,SP,São Paulo,Sudeste,362,2023-04-16,SKU-42823,Eletrônicos,TV LED,8,4350.2,34801.6,Loja Física
+65,Julia Novaes,25,SP,São Paulo,Sudeste,528,2023-04-03,SKU-36297,Roupas,Jaqueta de Couro,5,1959.53,9797.65,Loja Física
+65,Julia Novaes,25,SP,São Paulo,Sudeste,902,2023-11-19,SKU-67575,Esporte,Raquete de Tênis,3,379.94,1139.82,Loja Física
+66,Ana Beatriz Nunes,12,MS,Mato Grosso do Sul,Centro-Oeste,349,2023-02-09,SKU-53822,Brinquedos,Quebra-cabeça,6,122.47,734.8199999999999,Loja Física
+66,Ana Beatriz Nunes,12,MS,Mato Grosso do Sul,Centro-Oeste,989,2023-03-14,SKU-10344,Brinquedos,Brinquedo Educativo,9,79.47,715.23,Loja Física
+67,Kevin da Rocha,24,SC,Santa Catarina,Sul,311,2023-07-25,SKU-72688,Eletrônicos,Smartphone,7,2718.36,19028.52,Loja Física
+67,Kevin da Rocha,24,SC,Santa Catarina,Sul,488,2023-08-25,SKU-26460,Casa,Almofada Decorativa,7,73.62,515.34,Loja Física
+68,Melissa Melo,25,SP,São Paulo,Sudeste,53,2023-01-08,SKU-50055,Esporte,Luva de Boxe,5,98.09,490.45000000000005,Loja Física
+68,Melissa Melo,25,SP,São Paulo,Sudeste,54,2023-01-23,SKU-30274,Brinquedos,Kit de Desenho,1,148.7,148.7,Loja Física
+68,Melissa Melo,25,SP,São Paulo,Sudeste,290,2023-12-17,SKU-26460,Casa,Almofada Decorativa,10,73.62,736.2,Loja Física
+68,Melissa Melo,25,SP,São Paulo,Sudeste,812,2023-04-22,SKU-10344,Brinquedos,Brinquedo Educativo,6,79.47,476.82,Loja Física
+69,Amanda Souza,18,PI,Piauí,Nordeste,135,2023-06-20,SKU-53822,Brinquedos,Quebra-cabeça,1,122.47,122.47,Online
+70,Amanda Rodrigues,11,MT,Mato Grosso,Centro-Oeste,783,2023-12-13,SKU-11521,Brinquedos,Boneca,7,142.37,996.59,Online
+71,Pedro Cavalcanti,20,RN,Rio Grande do Norte,Nordeste,201,2023-01-01,SKU-31191,Esporte,Esteira Elétrica,1,1862.8,1862.8,Online
+71,Pedro Cavalcanti,20,RN,Rio Grande do Norte,Nordeste,254,2023-02-26,SKU-50582,Eletrônicos,Laptop,1,4526.6,4526.6,Online
+71,Pedro Cavalcanti,20,RN,Rio Grande do Norte,Nordeste,377,2023-07-14,SKU-26460,Casa,Almofada Decorativa,8,73.62,588.96,Online
+71,Pedro Cavalcanti,20,RN,Rio Grande do Norte,Nordeste,942,2023-09-08,SKU-97371,Esporte,Patins,5,237.06,1185.3,Online
+72,Bernardo Moreira,22,RO,Rondônia,Norte,322,2023-02-19,SKU-73390,Casa,Luminária de Mesa,1,35.83,35.83,Loja Física
+72,Bernardo Moreira,22,RO,Rondônia,Norte,328,2023-04-14,SKU-72849,Casa,Cortina Blackout,9,234.54,2110.86,Loja Física
+72,Bernardo Moreira,22,RO,Rondônia,Norte,849,2023-12-04,SKU-30274,Brinquedos,Kit de Desenho,3,148.7,446.09999999999997,Loja Física
+72,Bernardo Moreira,22,RO,Rondônia,Norte,867,2023-11-18,SKU-92162,Eletrônicos,Alto-falante Bluetooth,10,1198.31,11983.099999999999,Loja Física
+72,Bernardo Moreira,22,RO,Rondônia,Norte,878,2023-10-05,SKU-50582,Eletrônicos,Laptop,7,4526.6,31686.200000000004,Loja Física
+73,Sra. Sophie Vieira,22,RO,Rondônia,Norte,87,2023-02-10,SKU-94109,Brinquedos,Kit de Cozinha Infantil,9,136.43,1227.8700000000001,Online
+73,Sra. Sophie Vieira,22,RO,Rondônia,Norte,542,2023-09-10,SKU-25095,Brinquedos,Jogo de Tabuleiro,8,190.34,1522.72,Online
+73,Sra. Sophie Vieira,22,RO,Rondônia,Norte,815,2023-01-22,SKU-79560,Brinquedos,Patinete Infantil,4,131.58,526.32,Online
+74,Yuri Campos,24,SC,Santa Catarina,Sul,95,2023-10-11,SKU-49210,Eletrônicos,Tablet,5,715.28,3576.3999999999996,Online
+74,Yuri Campos,24,SC,Santa Catarina,Sul,140,2023-07-13,SKU-94109,Brinquedos,Kit de Cozinha Infantil,8,136.43,1091.44,Online
+74,Yuri Campos,24,SC,Santa Catarina,Sul,141,2023-02-23,SKU-25929,Esporte,Mochila de Hidratação,8,295.55,2364.4,Online
+74,Yuri Campos,24,SC,Santa Catarina,Sul,660,2023-12-14,SKU-19290,Esporte,Bola de Futebol,1,184.44,184.44,Online
+74,Yuri Campos,24,SC,Santa Catarina,Sul,700,2023-08-25,SKU-97371,Esporte,Patins,4,237.06,948.24,Online
+74,Yuri Campos,24,SC,Santa Catarina,Sul,715,2023-08-25,SKU-30274,Brinquedos,Kit de Desenho,6,148.7,892.1999999999999,Online
+74,Yuri Campos,24,SC,Santa Catarina,Sul,720,2023-10-04,SKU-73390,Casa,Luminária de Mesa,9,35.83,322.46999999999997,Online
+74,Yuri Campos,24,SC,Santa Catarina,Sul,958,2023-05-21,SKU-50582,Eletrônicos,Laptop,5,4526.6,22633.0,Online
+75,Sr. Emanuel Costela,5,BA,Bahia,Nordeste,224,2023-10-20,SKU-73390,Casa,Luminária de Mesa,4,35.83,143.32,Online
+75,Sr. Emanuel Costela,5,BA,Bahia,Nordeste,503,2023-06-16,SKU-86759,Eletrônicos,Smartwatch,9,185.34,1668.06,Online
+76,Rebeca Pires,25,SP,São Paulo,Sudeste,93,2023-07-19,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,4,128.9,515.6,Loja Física
+76,Rebeca Pires,25,SP,São Paulo,Sudeste,799,2023-07-15,SKU-37178,Eletrônicos,Carregador Portátil,2,53.67,107.34,Loja Física
+77,Marina da Cunha,16,PR,Paraná,Sul,332,2023-06-19,SKU-68595,Roupas,Camiseta Masculina,4,47.57,190.28,Online
+77,Marina da Cunha,16,PR,Paraná,Sul,513,2023-03-21,SKU-10889,Eletrônicos,Câmera Digital,3,5602.01,16806.03,Online
+78,Enrico da Conceição,17,PE,Pernambuco,Nordeste,862,2023-02-08,SKU-10889,Eletrônicos,Câmera Digital,2,5602.01,11204.02,Online
+80,Julia da Cunha,3,AP,Amapá,Norte,740,2023-06-03,SKU-94109,Brinquedos,Kit de Cozinha Infantil,10,136.43,1364.3000000000002,Online
+81,Sra. Carolina Azevedo,5,BA,Bahia,Nordeste,4,2023-05-06,SKU-26460,Casa,Almofada Decorativa,5,73.62,368.1,Online
+81,Sra. Carolina Azevedo,5,BA,Bahia,Nordeste,10,2023-07-11,SKU-37178,Eletrônicos,Carregador Portátil,2,53.67,107.34,Online
+81,Sra. Carolina Azevedo,5,BA,Bahia,Nordeste,108,2023-08-24,SKU-68595,Roupas,Camiseta Masculina,6,47.57,285.42,Online
+81,Sra. Carolina Azevedo,5,BA,Bahia,Nordeste,727,2023-04-27,SKU-20895,Casa,Espelho de Parede,7,226.92,1588.4399999999998,Online
+81,Sra. Carolina Azevedo,5,BA,Bahia,Nordeste,923,2023-09-01,SKU-97371,Esporte,Patins,4,237.06,948.24,Online
+82,Isabelly Castro,7,DF,Distrito Federal,Centro-Oeste,572,2023-09-29,SKU-37873,Casa,Ventilador de Mesa,1,270.78,270.78,Online
+82,Isabelly Castro,7,DF,Distrito Federal,Centro-Oeste,648,2023-06-12,SKU-92162,Eletrônicos,Alto-falante Bluetooth,10,1198.31,11983.099999999999,Online
+82,Isabelly Castro,7,DF,Distrito Federal,Centro-Oeste,818,2023-10-13,SKU-47207,Esporte,Bicicleta Mountain Bike,5,1671.59,8357.949999999999,Online
+82,Isabelly Castro,7,DF,Distrito Federal,Centro-Oeste,951,2023-12-08,SKU-10889,Eletrônicos,Câmera Digital,4,5602.01,22408.04,Online
+83,Helena Vieira,5,BA,Bahia,Nordeste,941,2023-03-23,SKU-47207,Esporte,Bicicleta Mountain Bike,6,1671.59,10029.539999999999,Loja Física
+84,Davi Costa,15,PB,Paraíba,Nordeste,828,2023-12-24,SKU-74214,Casa,Conjunto de Panelas,2,634.4,1268.8,Online
+84,Davi Costa,15,PB,Paraíba,Nordeste,908,2023-02-22,SKU-37178,Eletrônicos,Carregador Portátil,4,53.67,214.68,Online
+84,Davi Costa,15,PB,Paraíba,Nordeste,954,2023-09-14,SKU-97371,Esporte,Patins,5,237.06,1185.3,Online
+86,Dra. Catarina da Cunha,24,SC,Santa Catarina,Sul,131,2023-10-17,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,6,128.9,773.4000000000001,Loja Física
+86,Dra. Catarina da Cunha,24,SC,Santa Catarina,Sul,412,2023-02-27,SKU-72688,Eletrônicos,Smartphone,6,2718.36,16310.16,Loja Física
+86,Dra. Catarina da Cunha,24,SC,Santa Catarina,Sul,487,2023-11-14,SKU-20568,Eletrônicos,Roteador Wi-Fi,2,491.41,982.82,Loja Física
+86,Dra. Catarina da Cunha,24,SC,Santa Catarina,Sul,894,2023-12-23,SKU-50582,Eletrônicos,Laptop,6,4526.6,27159.600000000002,Loja Física
+86,Dra. Catarina da Cunha,24,SC,Santa Catarina,Sul,962,2023-04-01,SKU-19189,Brinquedos,Blocos de Montar,8,167.64,1341.12,Loja Física
+87,Sra. Lavínia Rocha,21,RS,Rio Grande do Sul,Sul,434,2023-11-07,SKU-37178,Eletrônicos,Carregador Portátil,9,53.67,483.03000000000003,Loja Física
+87,Sra. Lavínia Rocha,21,RS,Rio Grande do Sul,Sul,448,2023-08-24,SKU-26460,Casa,Almofada Decorativa,4,73.62,294.48,Loja Física
+87,Sra. Lavínia Rocha,21,RS,Rio Grande do Sul,Sul,774,2023-12-20,SKU-91071,Roupas,Sapatilhas Femininas,8,150.05,1200.4,Loja Física
+89,Lorenzo da Mata,23,RR,Roraima,Norte,411,2023-07-30,SKU-67575,Esporte,Raquete de Tênis,1,379.94,379.94,Online
+89,Lorenzo da Mata,23,RR,Roraima,Norte,515,2023-06-28,SKU-35933,Esporte,Halteres de Academia,3,249.82,749.46,Online
+90,Carolina da Rosa,24,SC,Santa Catarina,Sul,325,2023-11-01,SKU-97371,Esporte,Patins,4,237.06,948.24,Online
+91,Paulo Moraes,3,AP,Amapá,Norte,769,2023-04-03,SKU-99850,Roupas,Vestido Feminino,9,354.77,3192.93,Online
+93,Maria Eduarda Farias,1,AC,Acre,Norte,74,2023-11-12,SKU-94109,Brinquedos,Kit de Cozinha Infantil,3,136.43,409.29,Online
+93,Maria Eduarda Farias,1,AC,Acre,Norte,106,2023-07-10,SKU-19189,Brinquedos,Blocos de Montar,6,167.64,1005.8399999999999,Online
+93,Maria Eduarda Farias,1,AC,Acre,Norte,415,2023-04-04,SKU-69331,Casa,Organizador de Gavetas,2,136.47,272.94,Online
+94,Ana Campos,22,RO,Rondônia,Norte,866,2023-10-11,SKU-46571,Roupas,Camisa Social,9,166.94,1502.46,Loja Física
+95,Nathan Peixoto,2,AL,Alagoas,Nordeste,708,2023-01-05,SKU-94109,Brinquedos,Kit de Cozinha Infantil,9,136.43,1227.8700000000001,Loja Física
+96,Pietra Jesus,10,MA,Maranhão,Nordeste,955,2023-06-26,SKU-35933,Esporte,Halteres de Academia,4,249.82,999.28,Loja Física
+97,Sr. Danilo da Costa,26,SE,Sergipe,Nordeste,94,2023-11-05,SKU-47207,Esporte,Bicicleta Mountain Bike,4,1671.59,6686.36,Loja Física
+97,Sr. Danilo da Costa,26,SE,Sergipe,Nordeste,228,2023-10-19,SKU-56364,Casa,Conjunto de Talheres,4,68.89,275.56,Loja Física
+97,Sr. Danilo da Costa,26,SE,Sergipe,Nordeste,429,2023-05-30,SKU-97371,Esporte,Patins,6,237.06,1422.3600000000001,Loja Física
+97,Sr. Danilo da Costa,26,SE,Sergipe,Nordeste,604,2023-09-16,SKU-30676,Brinquedos,Urso de Pelúcia,2,93.4,186.8,Loja Física
+97,Sr. Danilo da Costa,26,SE,Sergipe,Nordeste,973,2023-11-22,SKU-30274,Brinquedos,Kit de Desenho,8,148.7,1189.6,Loja Física
+98,Maria Fernanda Barbosa,19,RJ,Rio de Janeiro,Sudeste,45,2023-04-20,SKU-37873,Casa,Ventilador de Mesa,4,270.78,1083.12,Online
+98,Maria Fernanda Barbosa,19,RJ,Rio de Janeiro,Sudeste,640,2023-11-09,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,3,128.9,386.70000000000005,Online
+99,Pedro Lucas Cardoso,13,MG,Minas Gerais,Sudeste,22,2023-06-11,SKU-56364,Casa,Conjunto de Talheres,6,68.89,413.34000000000003,Online
+100,Sr. Cauã Cunha,5,BA,Bahia,Nordeste,47,2023-01-28,SKU-36297,Roupas,Jaqueta de Couro,5,1959.53,9797.65,Loja Física
+100,Sr. Cauã Cunha,5,BA,Bahia,Nordeste,527,2023-12-24,SKU-10889,Eletrônicos,Câmera Digital,8,5602.01,44816.08,Loja Física
+100,Sr. Cauã Cunha,5,BA,Bahia,Nordeste,718,2023-07-11,SKU-47220,Roupas,Tênis Esportivo,9,164.48,1480.32,Loja Física
+100,Sr. Cauã Cunha,5,BA,Bahia,Nordeste,837,2023-10-11,SKU-67575,Esporte,Raquete de Tênis,8,379.94,3039.52,Loja Física
+101,Yasmin Freitas,14,PA,Pará,Norte,154,2023-06-16,SKU-49210,Eletrônicos,Tablet,10,715.28,7152.799999999999,Loja Física
+101,Yasmin Freitas,14,PA,Pará,Norte,326,2023-03-11,SKU-37873,Casa,Ventilador de Mesa,2,270.78,541.56,Loja Física
+102,Dra. Maria Eduarda Campos,7,DF,Distrito Federal,Centro-Oeste,390,2023-09-28,SKU-53822,Brinquedos,Quebra-cabeça,10,122.47,1224.7,Online
+104,Nathan Pires,17,PE,Pernambuco,Nordeste,502,2023-05-28,SKU-10889,Eletrônicos,Câmera Digital,1,5602.01,5602.01,Online
+105,Rafaela Caldeira,16,PR,Paraná,Sul,309,2023-11-14,SKU-68595,Roupas,Camiseta Masculina,1,47.57,47.57,Online
+106,João Alves,7,DF,Distrito Federal,Centro-Oeste,937,2023-12-05,SKU-21352,Roupas,Saia Midi,7,123.24,862.68,Loja Física
+108,Guilherme Carvalho,27,TO,Tocantins,Norte,112,2023-12-20,SKU-47207,Esporte,Bicicleta Mountain Bike,2,1671.59,3343.18,Loja Física
+108,Guilherme Carvalho,27,TO,Tocantins,Norte,245,2023-06-08,SKU-10889,Eletrônicos,Câmera Digital,2,5602.01,11204.02,Loja Física
+109,Joana Porto,27,TO,Tocantins,Norte,292,2023-08-29,SKU-49210,Eletrônicos,Tablet,8,715.28,5722.24,Online
+110,Alexandre Pinto,2,AL,Alagoas,Nordeste,273,2023-04-24,SKU-49210,Eletrônicos,Tablet,2,715.28,1430.56,Loja Física
+110,Alexandre Pinto,2,AL,Alagoas,Nordeste,826,2023-02-14,SKU-36297,Roupas,Jaqueta de Couro,4,1959.53,7838.12,Loja Física
+111,Calebe Rocha,26,SE,Sergipe,Nordeste,67,2023-03-02,SKU-56131,Roupas,Shorts de Verão,9,112.14,1009.26,Online
+111,Calebe Rocha,26,SE,Sergipe,Nordeste,351,2023-04-22,SKU-42823,Eletrônicos,TV LED,8,4350.2,34801.6,Online
+111,Calebe Rocha,26,SE,Sergipe,Nordeste,760,2023-08-06,SKU-28878,Roupas,Calça Jeans,5,123.17,615.85,Online
+111,Calebe Rocha,26,SE,Sergipe,Nordeste,809,2023-01-15,SKU-56131,Roupas,Shorts de Verão,10,112.14,1121.4,Online
+112,Ana Clara Viana,14,PA,Pará,Norte,678,2023-01-26,SKU-72688,Eletrônicos,Smartphone,10,2718.36,27183.600000000002,Loja Física
+112,Ana Clara Viana,14,PA,Pará,Norte,869,2023-10-13,SKU-77662,Esporte,Tapete de Yoga,2,80.11,160.22,Loja Física
+113,Vitor Gabriel da Luz,15,PB,Paraíba,Nordeste,12,2023-06-05,SKU-26147,Esporte,Skate,1,157.01,157.01,Loja Física
+113,Vitor Gabriel da Luz,15,PB,Paraíba,Nordeste,372,2023-10-21,SKU-10889,Eletrônicos,Câmera Digital,7,5602.01,39214.07,Loja Física
+114,Luiz Fernando Dias,26,SE,Sergipe,Nordeste,275,2023-12-17,SKU-67575,Esporte,Raquete de Tênis,10,379.94,3799.4,Online
+114,Luiz Fernando Dias,26,SE,Sergipe,Nordeste,563,2023-11-13,SKU-56364,Casa,Conjunto de Talheres,5,68.89,344.45,Online
+114,Luiz Fernando Dias,26,SE,Sergipe,Nordeste,592,2023-11-24,SKU-94109,Brinquedos,Kit de Cozinha Infantil,8,136.43,1091.44,Online
+114,Luiz Fernando Dias,26,SE,Sergipe,Nordeste,702,2023-08-15,SKU-25095,Brinquedos,Jogo de Tabuleiro,5,190.34,951.7,Online
+115,Ana Moura,6,CE,Ceará,Nordeste,544,2023-04-19,SKU-31191,Esporte,Esteira Elétrica,7,1862.8,13039.6,Online
+115,Ana Moura,6,CE,Ceará,Nordeste,751,2023-03-22,SKU-26460,Casa,Almofada Decorativa,1,73.62,73.62,Online
+116,Thales Rodrigues,2,AL,Alagoas,Nordeste,368,2023-11-10,SKU-92162,Eletrônicos,Alto-falante Bluetooth,10,1198.31,11983.099999999999,Online
+118,Arthur Cavalcanti,16,PR,Paraná,Sul,23,2023-06-30,SKU-20568,Eletrônicos,Roteador Wi-Fi,6,491.41,2948.46,Loja Física
+118,Arthur Cavalcanti,16,PR,Paraná,Sul,729,2023-09-26,SKU-10889,Eletrônicos,Câmera Digital,4,5602.01,22408.04,Loja Física
+118,Arthur Cavalcanti,16,PR,Paraná,Sul,807,2023-11-14,SKU-53822,Brinquedos,Quebra-cabeça,9,122.47,1102.23,Loja Física
+118,Arthur Cavalcanti,16,PR,Paraná,Sul,856,2023-04-06,SKU-31191,Esporte,Esteira Elétrica,3,1862.8,5588.4,Loja Física
+119,Anthony Cunha,12,MS,Mato Grosso do Sul,Centro-Oeste,253,2023-01-23,SKU-50582,Eletrônicos,Laptop,2,4526.6,9053.2,Online
+120,Gabrielly Pereira,18,PI,Piauí,Nordeste,348,2023-12-26,SKU-92162,Eletrônicos,Alto-falante Bluetooth,9,1198.31,10784.789999999999,Online
+120,Gabrielly Pereira,18,PI,Piauí,Nordeste,874,2023-02-09,SKU-35933,Esporte,Halteres de Academia,6,249.82,1498.92,Online
+120,Gabrielly Pereira,18,PI,Piauí,Nordeste,946,2023-04-21,SKU-10889,Eletrônicos,Câmera Digital,3,5602.01,16806.03,Online
+121,Eduarda Jesus,16,PR,Paraná,Sul,695,2023-12-21,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,10,128.9,1289.0,Loja Física
+121,Eduarda Jesus,16,PR,Paraná,Sul,746,2023-01-20,SKU-59736,Roupas,Blusa de Moletom,6,154.46,926.76,Loja Física
+122,Rafaela Farias,7,DF,Distrito Federal,Centro-Oeste,693,2023-11-07,SKU-72849,Casa,Cortina Blackout,1,234.54,234.54,Online
+124,Luana Ramos,17,PE,Pernambuco,Nordeste,248,2023-08-16,SKU-68595,Roupas,Camiseta Masculina,3,47.57,142.71,Online
+124,Luana Ramos,17,PE,Pernambuco,Nordeste,269,2023-06-08,SKU-72688,Eletrônicos,Smartphone,10,2718.36,27183.600000000002,Online
+124,Luana Ramos,17,PE,Pernambuco,Nordeste,391,2023-07-13,SKU-53822,Brinquedos,Quebra-cabeça,5,122.47,612.35,Online
+125,Rafaela Campos,7,DF,Distrito Federal,Centro-Oeste,419,2023-11-16,SKU-21352,Roupas,Saia Midi,6,123.24,739.4399999999999,Loja Física
+125,Rafaela Campos,7,DF,Distrito Federal,Centro-Oeste,565,2023-10-18,SKU-11521,Brinquedos,Boneca,2,142.37,284.74,Loja Física
+125,Rafaela Campos,7,DF,Distrito Federal,Centro-Oeste,630,2023-06-16,SKU-10889,Eletrônicos,Câmera Digital,1,5602.01,5602.01,Loja Física
+125,Rafaela Campos,7,DF,Distrito Federal,Centro-Oeste,632,2023-09-20,SKU-74214,Casa,Conjunto de Panelas,1,634.4,634.4,Loja Física
+125,Rafaela Campos,7,DF,Distrito Federal,Centro-Oeste,722,2023-10-16,SKU-20568,Eletrônicos,Roteador Wi-Fi,6,491.41,2948.46,Loja Física
+126,Valentina Cardoso,1,AC,Acre,Norte,262,2023-09-21,SKU-91071,Roupas,Sapatilhas Femininas,8,150.05,1200.4,Online
+126,Valentina Cardoso,1,AC,Acre,Norte,725,2023-04-04,SKU-30676,Brinquedos,Urso de Pelúcia,3,93.4,280.20000000000005,Online
+127,Dr. Enzo Gabriel Rodrigues,14,PA,Pará,Norte,225,2023-12-23,SKU-19189,Brinquedos,Blocos de Montar,9,167.64,1508.7599999999998,Loja Física
+127,Dr. Enzo Gabriel Rodrigues,14,PA,Pará,Norte,570,2023-08-25,SKU-26460,Casa,Almofada Decorativa,2,73.62,147.24,Loja Física
+128,Pietra da Mota,12,MS,Mato Grosso do Sul,Centro-Oeste,143,2023-07-29,SKU-20895,Casa,Espelho de Parede,7,226.92,1588.4399999999998,Online
+128,Pietra da Mota,12,MS,Mato Grosso do Sul,Centro-Oeste,246,2023-12-24,SKU-68873,Casa,Cafeteira Elétrica,3,750.7,2252.1000000000004,Online
+128,Pietra da Mota,12,MS,Mato Grosso do Sul,Centro-Oeste,261,2023-01-01,SKU-46571,Roupas,Camisa Social,3,166.94,500.82,Online
+128,Pietra da Mota,12,MS,Mato Grosso do Sul,Centro-Oeste,965,2023-08-06,SKU-36297,Roupas,Jaqueta de Couro,5,1959.53,9797.65,Online
+129,Dr. João Gabriel Nogueira,23,RR,Roraima,Norte,440,2023-05-09,SKU-19189,Brinquedos,Blocos de Montar,10,167.64,1676.3999999999999,Loja Física
+129,Dr. João Gabriel Nogueira,23,RR,Roraima,Norte,481,2023-07-28,SKU-72849,Casa,Cortina Blackout,3,234.54,703.62,Loja Física
+130,Pedro Miguel Caldeira,1,AC,Acre,Norte,97,2023-04-05,SKU-50055,Esporte,Luva de Boxe,3,98.09,294.27,Loja Física
+130,Pedro Miguel Caldeira,1,AC,Acre,Norte,410,2023-11-11,SKU-10344,Brinquedos,Brinquedo Educativo,9,79.47,715.23,Loja Física
+130,Pedro Miguel Caldeira,1,AC,Acre,Norte,465,2023-10-19,SKU-30274,Brinquedos,Kit de Desenho,10,148.7,1487.0,Loja Física
+130,Pedro Miguel Caldeira,1,AC,Acre,Norte,489,2023-09-28,SKU-30274,Brinquedos,Kit de Desenho,3,148.7,446.09999999999997,Loja Física
+131,Juan Dias,27,TO,Tocantins,Norte,92,2023-05-27,SKU-19189,Brinquedos,Blocos de Montar,10,167.64,1676.3999999999999,Loja Física
+131,Juan Dias,27,TO,Tocantins,Norte,561,2023-05-12,SKU-92162,Eletrônicos,Alto-falante Bluetooth,3,1198.31,3594.93,Loja Física
+131,Juan Dias,27,TO,Tocantins,Norte,633,2023-01-03,SKU-47207,Esporte,Bicicleta Mountain Bike,4,1671.59,6686.36,Loja Física
+131,Juan Dias,27,TO,Tocantins,Norte,754,2023-11-19,SKU-21352,Roupas,Saia Midi,2,123.24,246.48,Loja Física
+132,Antônio Cardoso,20,RN,Rio Grande do Norte,Nordeste,985,2023-11-14,SKU-46571,Roupas,Camisa Social,2,166.94,333.88,Online
+133,Bruno Souza,18,PI,Piauí,Nordeste,174,2023-08-02,SKU-53822,Brinquedos,Quebra-cabeça,1,122.47,122.47,Online
+133,Bruno Souza,18,PI,Piauí,Nordeste,508,2023-11-13,SKU-11521,Brinquedos,Boneca,4,142.37,569.48,Online
+135,Dr. Raul Pinto,8,ES,Espírito Santo,Sudeste,532,2023-03-29,SKU-91071,Roupas,Sapatilhas Femininas,6,150.05,900.3000000000001,Online
+136,Davi Lucas Caldeira,10,MA,Maranhão,Nordeste,469,2023-04-01,SKU-59736,Roupas,Blusa de Moletom,6,154.46,926.76,Online
+138,Sra. Caroline Santos,27,TO,Tocantins,Norte,295,2023-04-12,SKU-46571,Roupas,Camisa Social,3,166.94,500.82,Loja Física
+138,Sra. Caroline Santos,27,TO,Tocantins,Norte,836,2023-10-01,SKU-37873,Casa,Ventilador de Mesa,4,270.78,1083.12,Loja Física
+139,Marcos Vinicius Cardoso,10,MA,Maranhão,Nordeste,259,2023-05-12,SKU-36297,Roupas,Jaqueta de Couro,10,1959.53,19595.3,Online
+139,Marcos Vinicius Cardoso,10,MA,Maranhão,Nordeste,674,2023-05-28,SKU-50055,Esporte,Luva de Boxe,9,98.09,882.8100000000001,Online
+139,Marcos Vinicius Cardoso,10,MA,Maranhão,Nordeste,750,2023-02-11,SKU-99850,Roupas,Vestido Feminino,6,354.77,2128.62,Online
+141,Julia Silveira,25,SP,São Paulo,Sudeste,29,2023-09-14,SKU-79560,Brinquedos,Patinete Infantil,3,131.58,394.74,Online
+141,Julia Silveira,25,SP,São Paulo,Sudeste,110,2023-12-03,SKU-68873,Casa,Cafeteira Elétrica,3,750.7,2252.1000000000004,Online
+141,Julia Silveira,25,SP,São Paulo,Sudeste,384,2023-04-15,SKU-28878,Roupas,Calça Jeans,4,123.17,492.68,Online
+141,Julia Silveira,25,SP,São Paulo,Sudeste,400,2023-08-28,SKU-50582,Eletrônicos,Laptop,5,4526.6,22633.0,Online
+142,Levi Alves,1,AC,Acre,Norte,111,2023-01-14,SKU-30676,Brinquedos,Urso de Pelúcia,10,93.4,934.0,Loja Física
+142,Levi Alves,1,AC,Acre,Norte,398,2023-11-02,SKU-92162,Eletrônicos,Alto-falante Bluetooth,5,1198.31,5991.549999999999,Loja Física
+143,Thiago Gomes,1,AC,Acre,Norte,191,2023-06-04,SKU-92162,Eletrônicos,Alto-falante Bluetooth,10,1198.31,11983.099999999999,Online
+144,Bianca da Cunha,18,PI,Piauí,Nordeste,967,2023-03-15,SKU-69331,Casa,Organizador de Gavetas,10,136.47,1364.7,Loja Física
+145,Manuela Nunes,18,PI,Piauí,Nordeste,217,2023-09-26,SKU-50582,Eletrônicos,Laptop,1,4526.6,4526.6,Online
+145,Manuela Nunes,18,PI,Piauí,Nordeste,386,2023-03-27,SKU-30274,Brinquedos,Kit de Desenho,1,148.7,148.7,Online
+145,Manuela Nunes,18,PI,Piauí,Nordeste,425,2023-07-28,SKU-10344,Brinquedos,Brinquedo Educativo,6,79.47,476.82,Online
+146,Benício da Rocha,4,AM,Amazonas,Norte,523,2023-05-12,SKU-56364,Casa,Conjunto de Talheres,9,68.89,620.01,Loja Física
+146,Benício da Rocha,4,AM,Amazonas,Norte,680,2023-02-18,SKU-97371,Esporte,Patins,2,237.06,474.12,Loja Física
+146,Benício da Rocha,4,AM,Amazonas,Norte,684,2023-09-18,SKU-49210,Eletrônicos,Tablet,9,715.28,6437.5199999999995,Loja Física
+148,Ana Luiza da Cruz,11,MT,Mato Grosso,Centro-Oeste,452,2023-07-31,SKU-46571,Roupas,Camisa Social,1,166.94,166.94,Online
+148,Ana Luiza da Cruz,11,MT,Mato Grosso,Centro-Oeste,821,2023-09-23,SKU-47220,Roupas,Tênis Esportivo,7,164.48,1151.36,Online
+149,Joaquim da Cruz,22,RO,Rondônia,Norte,173,2023-02-25,SKU-20895,Casa,Espelho de Parede,1,226.92,226.92,Loja Física
+149,Joaquim da Cruz,22,RO,Rondônia,Norte,578,2023-02-10,SKU-99850,Roupas,Vestido Feminino,5,354.77,1773.85,Loja Física
+150,Bárbara da Conceição,18,PI,Piauí,Nordeste,181,2023-08-22,SKU-50055,Esporte,Luva de Boxe,9,98.09,882.8100000000001,Loja Física
+150,Bárbara da Conceição,18,PI,Piauí,Nordeste,439,2023-08-05,SKU-47220,Roupas,Tênis Esportivo,8,164.48,1315.84,Loja Física
+151,Thiago Rodrigues,23,RR,Roraima,Norte,236,2023-05-18,SKU-74214,Casa,Conjunto de Panelas,4,634.4,2537.6,Online
+151,Thiago Rodrigues,23,RR,Roraima,Norte,422,2023-04-02,SKU-47220,Roupas,Tênis Esportivo,5,164.48,822.4,Online
+151,Thiago Rodrigues,23,RR,Roraima,Norte,662,2023-04-11,SKU-47220,Roupas,Tênis Esportivo,10,164.48,1644.8,Online
+152,Ana Luiza Novaes,8,ES,Espírito Santo,Sudeste,85,2023-07-04,SKU-19189,Brinquedos,Blocos de Montar,7,167.64,1173.48,Online
+152,Ana Luiza Novaes,8,ES,Espírito Santo,Sudeste,180,2023-06-12,SKU-79560,Brinquedos,Patinete Infantil,8,131.58,1052.64,Online
+152,Ana Luiza Novaes,8,ES,Espírito Santo,Sudeste,211,2023-09-16,SKU-86759,Eletrônicos,Smartwatch,2,185.34,370.68,Online
+152,Ana Luiza Novaes,8,ES,Espírito Santo,Sudeste,381,2023-07-15,SKU-10344,Brinquedos,Brinquedo Educativo,4,79.47,317.88,Online
+153,Carolina da Luz,25,SP,São Paulo,Sudeste,557,2023-08-31,SKU-46571,Roupas,Camisa Social,10,166.94,1669.4,Loja Física
+153,Carolina da Luz,25,SP,São Paulo,Sudeste,612,2023-10-11,SKU-37178,Eletrônicos,Carregador Portátil,4,53.67,214.68,Loja Física
+153,Carolina da Luz,25,SP,São Paulo,Sudeste,643,2023-10-31,SKU-92162,Eletrônicos,Alto-falante Bluetooth,1,1198.31,1198.31,Loja Física
+155,Clara Silveira,18,PI,Piauí,Nordeste,401,2023-03-29,SKU-22668,Brinquedos,Carrinho de Controle Remoto,5,273.79,1368.95,Loja Física
+155,Clara Silveira,18,PI,Piauí,Nordeste,530,2023-04-08,SKU-20568,Eletrônicos,Roteador Wi-Fi,3,491.41,1474.23,Loja Física
+156,Dr. Guilherme Farias,20,RN,Rio Grande do Norte,Nordeste,129,2023-03-03,SKU-99850,Roupas,Vestido Feminino,3,354.77,1064.31,Loja Física
+157,Enzo Rocha,27,TO,Tocantins,Norte,86,2023-04-04,SKU-36297,Roupas,Jaqueta de Couro,1,1959.53,1959.53,Loja Física
+157,Enzo Rocha,27,TO,Tocantins,Norte,514,2023-01-25,SKU-25095,Brinquedos,Jogo de Tabuleiro,4,190.34,761.36,Loja Física
+157,Enzo Rocha,27,TO,Tocantins,Norte,677,2023-10-07,SKU-25095,Brinquedos,Jogo de Tabuleiro,4,190.34,761.36,Loja Física
+157,Enzo Rocha,27,TO,Tocantins,Norte,817,2023-08-02,SKU-68873,Casa,Cafeteira Elétrica,10,750.7,7507.0,Loja Física
+158,Lorena da Conceição,6,CE,Ceará,Nordeste,336,2023-09-01,SKU-91071,Roupas,Sapatilhas Femininas,7,150.05,1050.3500000000001,Online
+159,Sra. Daniela Ribeiro,24,SC,Santa Catarina,Sul,838,2023-12-29,SKU-47207,Esporte,Bicicleta Mountain Bike,7,1671.59,11701.13,Online
+159,Sra. Daniela Ribeiro,24,SC,Santa Catarina,Sul,885,2023-01-19,SKU-72849,Casa,Cortina Blackout,3,234.54,703.62,Online
+160,Carolina Azevedo,7,DF,Distrito Federal,Centro-Oeste,296,2023-09-07,SKU-47207,Esporte,Bicicleta Mountain Bike,8,1671.59,13372.72,Loja Física
+160,Carolina Azevedo,7,DF,Distrito Federal,Centro-Oeste,330,2023-02-28,SKU-19290,Esporte,Bola de Futebol,8,184.44,1475.52,Loja Física
+161,Srta. Maria Luiza Rezende,14,PA,Pará,Norte,501,2023-06-08,SKU-30676,Brinquedos,Urso de Pelúcia,8,93.4,747.2,Loja Física
+162,Srta. Maria Luiza Gonçalves,12,MS,Mato Grosso do Sul,Centro-Oeste,220,2023-05-19,SKU-46571,Roupas,Camisa Social,1,166.94,166.94,Online
+162,Srta. Maria Luiza Gonçalves,12,MS,Mato Grosso do Sul,Centro-Oeste,316,2023-04-17,SKU-26460,Casa,Almofada Decorativa,8,73.62,588.96,Online
+163,Emanuella Monteiro,22,RO,Rondônia,Norte,44,2023-11-08,SKU-97371,Esporte,Patins,10,237.06,2370.6,Online
+163,Emanuella Monteiro,22,RO,Rondônia,Norte,607,2023-05-23,SKU-72688,Eletrônicos,Smartphone,4,2718.36,10873.44,Online
+163,Emanuella Monteiro,22,RO,Rondônia,Norte,852,2023-11-19,SKU-42823,Eletrônicos,TV LED,10,4350.2,43502.0,Online
+163,Emanuella Monteiro,22,RO,Rondônia,Norte,996,2023-07-11,SKU-94109,Brinquedos,Kit de Cozinha Infantil,1,136.43,136.43,Online
+164,Kamilly Silveira,3,AP,Amapá,Norte,366,2023-10-16,SKU-26147,Esporte,Skate,3,157.01,471.03,Online
+164,Kamilly Silveira,3,AP,Amapá,Norte,689,2023-08-28,SKU-91071,Roupas,Sapatilhas Femininas,2,150.05,300.1,Online
+165,Isabella Porto,20,RN,Rio Grande do Norte,Nordeste,130,2023-11-09,SKU-10889,Eletrônicos,Câmera Digital,6,5602.01,33612.06,Loja Física
+165,Isabella Porto,20,RN,Rio Grande do Norte,Nordeste,136,2023-07-11,SKU-77662,Esporte,Tapete de Yoga,2,80.11,160.22,Loja Física
+165,Isabella Porto,20,RN,Rio Grande do Norte,Nordeste,498,2023-03-30,SKU-26460,Casa,Almofada Decorativa,1,73.62,73.62,Loja Física
+165,Isabella Porto,20,RN,Rio Grande do Norte,Nordeste,591,2023-03-04,SKU-97371,Esporte,Patins,3,237.06,711.1800000000001,Loja Física
+165,Isabella Porto,20,RN,Rio Grande do Norte,Nordeste,963,2023-08-12,SKU-25929,Esporte,Mochila de Hidratação,5,295.55,1477.75,Loja Física
+166,Giovanna Castro,26,SE,Sergipe,Nordeste,148,2023-10-16,SKU-94109,Brinquedos,Kit de Cozinha Infantil,7,136.43,955.01,Online
+166,Giovanna Castro,26,SE,Sergipe,Nordeste,776,2023-10-22,SKU-20568,Eletrônicos,Roteador Wi-Fi,10,491.41,4914.1,Online
+167,Yasmin Freitas,18,PI,Piauí,Nordeste,993,2023-10-29,SKU-10344,Brinquedos,Brinquedo Educativo,1,79.47,79.47,Online
+168,Heloísa Novaes,1,AC,Acre,Norte,916,2023-01-14,SKU-72688,Eletrônicos,Smartphone,7,2718.36,19028.52,Online
+169,Raul Cardoso,21,RS,Rio Grande do Sul,Sul,649,2023-02-23,SKU-79560,Brinquedos,Patinete Infantil,3,131.58,394.74,Online
+169,Raul Cardoso,21,RS,Rio Grande do Sul,Sul,787,2023-04-24,SKU-46571,Roupas,Camisa Social,7,166.94,1168.58,Online
+169,Raul Cardoso,21,RS,Rio Grande do Sul,Sul,877,2023-08-29,SKU-59806,Casa,Jogo de Lençol,9,498.24,4484.16,Online
+170,Pietra Vieira,10,MA,Maranhão,Nordeste,139,2023-10-12,SKU-25095,Brinquedos,Jogo de Tabuleiro,10,190.34,1903.4,Online
+170,Pietra Vieira,10,MA,Maranhão,Nordeste,389,2023-09-28,SKU-97371,Esporte,Patins,3,237.06,711.1800000000001,Online
+171,João Pedro Barros,7,DF,Distrito Federal,Centro-Oeste,235,2023-02-07,SKU-20568,Eletrônicos,Roteador Wi-Fi,2,491.41,982.82,Online
+171,João Pedro Barros,7,DF,Distrito Federal,Centro-Oeste,446,2023-03-06,SKU-72688,Eletrônicos,Smartphone,4,2718.36,10873.44,Online
+172,Davi Luiz Fogaça,17,PE,Pernambuco,Nordeste,526,2023-02-04,SKU-10344,Brinquedos,Brinquedo Educativo,2,79.47,158.94,Online
+174,Maria Luiza Cardoso,6,CE,Ceará,Nordeste,34,2023-09-27,SKU-25095,Brinquedos,Jogo de Tabuleiro,3,190.34,571.02,Loja Física
+175,Caio Jesus,12,MS,Mato Grosso do Sul,Centro-Oeste,149,2023-11-04,SKU-35933,Esporte,Halteres de Academia,4,249.82,999.28,Loja Física
+175,Caio Jesus,12,MS,Mato Grosso do Sul,Centro-Oeste,202,2023-02-17,SKU-49210,Eletrônicos,Tablet,3,715.28,2145.84,Loja Física
+175,Caio Jesus,12,MS,Mato Grosso do Sul,Centro-Oeste,204,2023-02-18,SKU-25095,Brinquedos,Jogo de Tabuleiro,6,190.34,1142.04,Loja Física
+175,Caio Jesus,12,MS,Mato Grosso do Sul,Centro-Oeste,212,2023-06-15,SKU-56364,Casa,Conjunto de Talheres,10,68.89,688.9,Loja Física
+175,Caio Jesus,12,MS,Mato Grosso do Sul,Centro-Oeste,546,2023-11-17,SKU-31191,Esporte,Esteira Elétrica,8,1862.8,14902.4,Loja Física
+176,Guilherme Aragão,18,PI,Piauí,Nordeste,256,2023-12-09,SKU-19290,Esporte,Bola de Futebol,1,184.44,184.44,Loja Física
+176,Guilherme Aragão,18,PI,Piauí,Nordeste,553,2023-09-08,SKU-92162,Eletrônicos,Alto-falante Bluetooth,4,1198.31,4793.24,Loja Física
+176,Guilherme Aragão,18,PI,Piauí,Nordeste,647,2023-07-05,SKU-28878,Roupas,Calça Jeans,9,123.17,1108.53,Loja Física
+177,Marina Ramos,2,AL,Alagoas,Nordeste,472,2023-05-12,SKU-92162,Eletrônicos,Alto-falante Bluetooth,8,1198.31,9586.48,Online
+177,Marina Ramos,2,AL,Alagoas,Nordeste,600,2023-06-02,SKU-30676,Brinquedos,Urso de Pelúcia,7,93.4,653.8000000000001,Online
+178,Diogo da Paz,2,AL,Alagoas,Nordeste,714,2023-11-29,SKU-26147,Esporte,Skate,6,157.01,942.06,Loja Física
+179,Sr. Diego Correia,16,PR,Paraná,Sul,194,2023-07-14,SKU-50582,Eletrônicos,Laptop,6,4526.6,27159.600000000002,Online
+179,Sr. Diego Correia,16,PR,Paraná,Sul,449,2023-08-20,SKU-47220,Roupas,Tênis Esportivo,9,164.48,1480.32,Online
+180,Dr. Gustavo Henrique Rocha,19,RJ,Rio de Janeiro,Sudeste,76,2023-10-20,SKU-68873,Casa,Cafeteira Elétrica,2,750.7,1501.4,Loja Física
+180,Dr. Gustavo Henrique Rocha,19,RJ,Rio de Janeiro,Sudeste,423,2023-01-02,SKU-42823,Eletrônicos,TV LED,8,4350.2,34801.6,Loja Física
+180,Dr. Gustavo Henrique Rocha,19,RJ,Rio de Janeiro,Sudeste,583,2023-03-07,SKU-86759,Eletrônicos,Smartwatch,3,185.34,556.02,Loja Física
+180,Dr. Gustavo Henrique Rocha,19,RJ,Rio de Janeiro,Sudeste,706,2023-04-27,SKU-21352,Roupas,Saia Midi,7,123.24,862.68,Loja Física
+180,Dr. Gustavo Henrique Rocha,19,RJ,Rio de Janeiro,Sudeste,907,2023-03-16,SKU-22668,Brinquedos,Carrinho de Controle Remoto,2,273.79,547.58,Loja Física
+181,Dr. Arthur Carvalho,7,DF,Distrito Federal,Centro-Oeste,267,2023-06-09,SKU-68595,Roupas,Camiseta Masculina,9,47.57,428.13,Online
+181,Dr. Arthur Carvalho,7,DF,Distrito Federal,Centro-Oeste,926,2023-07-07,SKU-59806,Casa,Jogo de Lençol,4,498.24,1992.96,Online
+182,Ana Clara Gomes,25,SP,São Paulo,Sudeste,50,2023-01-01,SKU-68595,Roupas,Camiseta Masculina,8,47.57,380.56,Loja Física
+183,Calebe Almeida,22,RO,Rondônia,Norte,361,2023-06-06,SKU-77662,Esporte,Tapete de Yoga,2,80.11,160.22,Loja Física
+183,Calebe Almeida,22,RO,Rondônia,Norte,418,2023-12-10,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,9,128.9,1160.1000000000001,Loja Física
+183,Calebe Almeida,22,RO,Rondônia,Norte,755,2023-03-15,SKU-42823,Eletrônicos,TV LED,3,4350.2,13050.599999999999,Loja Física
+183,Calebe Almeida,22,RO,Rondônia,Norte,775,2023-01-16,SKU-73390,Casa,Luminária de Mesa,3,35.83,107.49,Loja Física
+184,Joana Mendes,6,CE,Ceará,Nordeste,519,2023-03-21,SKU-50582,Eletrônicos,Laptop,9,4526.6,40739.4,Loja Física
+185,Sra. Stella Fernandes,5,BA,Bahia,Nordeste,611,2023-07-01,SKU-36297,Roupas,Jaqueta de Couro,1,1959.53,1959.53,Online
+185,Sra. Stella Fernandes,5,BA,Bahia,Nordeste,625,2023-11-26,SKU-73390,Casa,Luminária de Mesa,5,35.83,179.14999999999998,Online
+186,Ana Luiza Jesus,19,RJ,Rio de Janeiro,Sudeste,868,2023-06-24,SKU-46571,Roupas,Camisa Social,6,166.94,1001.64,Loja Física
+187,Isadora Ferreira,1,AC,Acre,Norte,548,2023-03-04,SKU-79560,Brinquedos,Patinete Infantil,1,131.58,131.58,Online
+188,Dr. Kaique Castro,3,AP,Amapá,Norte,9,2023-12-19,SKU-56131,Roupas,Shorts de Verão,6,112.14,672.84,Online
+188,Dr. Kaique Castro,3,AP,Amapá,Norte,441,2023-03-31,SKU-97371,Esporte,Patins,3,237.06,711.1800000000001,Online
+188,Dr. Kaique Castro,3,AP,Amapá,Norte,771,2023-11-29,SKU-22668,Brinquedos,Carrinho de Controle Remoto,4,273.79,1095.16,Online
+189,Laura Porto,5,BA,Bahia,Nordeste,42,2023-08-19,SKU-92162,Eletrônicos,Alto-falante Bluetooth,6,1198.31,7189.86,Online
+189,Laura Porto,5,BA,Bahia,Nordeste,477,2023-11-28,SKU-11521,Brinquedos,Boneca,6,142.37,854.22,Online
+191,Vitor Nascimento,12,MS,Mato Grosso do Sul,Centro-Oeste,585,2023-04-25,SKU-79560,Brinquedos,Patinete Infantil,7,131.58,921.0600000000001,Loja Física
+192,João Costa,14,PA,Pará,Norte,65,2023-02-18,SKU-47207,Esporte,Bicicleta Mountain Bike,8,1671.59,13372.72,Online
+193,Diego da Costa,18,PI,Piauí,Nordeste,161,2023-04-29,SKU-47207,Esporte,Bicicleta Mountain Bike,9,1671.59,15044.31,Online
+193,Diego da Costa,18,PI,Piauí,Nordeste,187,2023-03-18,SKU-53822,Brinquedos,Quebra-cabeça,9,122.47,1102.23,Online
+193,Diego da Costa,18,PI,Piauí,Nordeste,964,2023-12-16,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,3,128.9,386.70000000000005,Online
+194,Luiz Henrique Gonçalves,22,RO,Rondônia,Norte,5,2023-08-03,SKU-22668,Brinquedos,Carrinho de Controle Remoto,10,273.79,2737.9,Loja Física
+194,Luiz Henrique Gonçalves,22,RO,Rondônia,Norte,35,2023-03-05,SKU-92162,Eletrônicos,Alto-falante Bluetooth,9,1198.31,10784.789999999999,Loja Física
+194,Luiz Henrique Gonçalves,22,RO,Rondônia,Norte,125,2023-04-29,SKU-56364,Casa,Conjunto de Talheres,10,68.89,688.9,Loja Física
+196,Heitor Castro,14,PA,Pará,Norte,13,2023-01-12,SKU-94109,Brinquedos,Kit de Cozinha Infantil,2,136.43,272.86,Online
+196,Heitor Castro,14,PA,Pará,Norte,586,2023-02-18,SKU-79560,Brinquedos,Patinete Infantil,7,131.58,921.0600000000001,Online
+196,Heitor Castro,14,PA,Pará,Norte,786,2023-06-29,SKU-37178,Eletrônicos,Carregador Portátil,5,53.67,268.35,Online
+196,Heitor Castro,14,PA,Pará,Norte,976,2023-01-23,SKU-20568,Eletrônicos,Roteador Wi-Fi,4,491.41,1965.64,Online
+197,Eduardo Alves,17,PE,Pernambuco,Nordeste,230,2023-01-14,SKU-92162,Eletrônicos,Alto-falante Bluetooth,8,1198.31,9586.48,Online
+197,Eduardo Alves,17,PE,Pernambuco,Nordeste,272,2023-12-06,SKU-69331,Casa,Organizador de Gavetas,4,136.47,545.88,Online
+197,Eduardo Alves,17,PE,Pernambuco,Nordeste,670,2023-07-08,SKU-25095,Brinquedos,Jogo de Tabuleiro,10,190.34,1903.4,Online
+199,João Miguel Gonçalves,3,AP,Amapá,Norte,888,2023-05-20,SKU-59736,Roupas,Blusa de Moletom,6,154.46,926.76,Online
+201,Dra. Joana da Paz,5,BA,Bahia,Nordeste,37,2023-12-18,SKU-72849,Casa,Cortina Blackout,2,234.54,469.08,Online
+201,Dra. Joana da Paz,5,BA,Bahia,Nordeste,562,2023-11-13,SKU-72688,Eletrônicos,Smartphone,2,2718.36,5436.72,Online
+201,Dra. Joana da Paz,5,BA,Bahia,Nordeste,582,2023-09-03,SKU-22668,Brinquedos,Carrinho de Controle Remoto,6,273.79,1642.7400000000002,Online
+201,Dra. Joana da Paz,5,BA,Bahia,Nordeste,658,2023-12-09,SKU-20568,Eletrônicos,Roteador Wi-Fi,6,491.41,2948.46,Online
+202,Vitor Hugo da Cruz,23,RR,Roraima,Norte,315,2023-08-30,SKU-22668,Brinquedos,Carrinho de Controle Remoto,8,273.79,2190.32,Online
+202,Vitor Hugo da Cruz,23,RR,Roraima,Norte,395,2023-06-14,SKU-91071,Roupas,Sapatilhas Femininas,8,150.05,1200.4,Online
+203,Murilo Viana,2,AL,Alagoas,Nordeste,986,2023-01-08,SKU-56364,Casa,Conjunto de Talheres,5,68.89,344.45,Online
+205,Fernando da Costa,17,PE,Pernambuco,Nordeste,329,2023-11-30,SKU-56364,Casa,Conjunto de Talheres,1,68.89,68.89,Loja Física
+206,Fernando Viana,22,RO,Rondônia,Norte,73,2023-11-07,SKU-72849,Casa,Cortina Blackout,10,234.54,2345.4,Loja Física
+206,Fernando Viana,22,RO,Rondônia,Norte,399,2023-03-17,SKU-36297,Roupas,Jaqueta de Couro,7,1959.53,13716.71,Loja Física
+206,Fernando Viana,22,RO,Rondônia,Norte,875,2023-06-07,SKU-94109,Brinquedos,Kit de Cozinha Infantil,9,136.43,1227.8700000000001,Loja Física
+208,Mariana Silveira,27,TO,Tocantins,Norte,218,2023-04-12,SKU-31191,Esporte,Esteira Elétrica,6,1862.8,11176.8,Loja Física
+208,Mariana Silveira,27,TO,Tocantins,Norte,770,2023-10-18,SKU-69331,Casa,Organizador de Gavetas,5,136.47,682.35,Loja Física
+208,Mariana Silveira,27,TO,Tocantins,Norte,829,2023-07-02,SKU-19290,Esporte,Bola de Futebol,4,184.44,737.76,Loja Física
+209,Sr. Erick Porto,17,PE,Pernambuco,Nordeste,675,2023-08-12,SKU-72688,Eletrônicos,Smartphone,5,2718.36,13591.800000000001,Online
+209,Sr. Erick Porto,17,PE,Pernambuco,Nordeste,820,2023-03-03,SKU-11521,Brinquedos,Boneca,3,142.37,427.11,Online
+211,Larissa da Costa,4,AM,Amazonas,Norte,287,2023-06-26,SKU-30274,Brinquedos,Kit de Desenho,10,148.7,1487.0,Online
+211,Larissa da Costa,4,AM,Amazonas,Norte,683,2023-01-19,SKU-50055,Esporte,Luva de Boxe,9,98.09,882.8100000000001,Online
+211,Larissa da Costa,4,AM,Amazonas,Norte,764,2023-01-15,SKU-92162,Eletrônicos,Alto-falante Bluetooth,5,1198.31,5991.549999999999,Online
+211,Larissa da Costa,4,AM,Amazonas,Norte,968,2023-01-29,SKU-31191,Esporte,Esteira Elétrica,4,1862.8,7451.2,Online
+213,Srta. Maria Eduarda Ramos,16,PR,Paraná,Sul,102,2023-06-18,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,4,128.9,515.6,Online
+213,Srta. Maria Eduarda Ramos,16,PR,Paraná,Sul,159,2023-09-08,SKU-53822,Brinquedos,Quebra-cabeça,8,122.47,979.76,Online
+214,Heloísa Nascimento,23,RR,Roraima,Norte,454,2023-05-12,SKU-50582,Eletrônicos,Laptop,7,4526.6,31686.200000000004,Online
+214,Heloísa Nascimento,23,RR,Roraima,Norte,655,2023-08-23,SKU-49210,Eletrônicos,Tablet,8,715.28,5722.24,Online
+215,Heitor Pires,5,BA,Bahia,Nordeste,627,2023-11-29,SKU-25095,Brinquedos,Jogo de Tabuleiro,9,190.34,1713.06,Online
+217,André Gonçalves,24,SC,Santa Catarina,Sul,467,2023-05-15,SKU-11521,Brinquedos,Boneca,3,142.37,427.11,Online
+217,André Gonçalves,24,SC,Santa Catarina,Sul,803,2023-05-25,SKU-49210,Eletrônicos,Tablet,7,715.28,5006.96,Online
+218,Dra. Gabriela Castro,20,RN,Rio Grande do Norte,Nordeste,940,2023-07-03,SKU-50055,Esporte,Luva de Boxe,6,98.09,588.54,Online
+220,Agatha Costela,23,RR,Roraima,Norte,298,2023-09-30,SKU-68873,Casa,Cafeteira Elétrica,9,750.7,6756.3,Loja Física
+220,Agatha Costela,23,RR,Roraima,Norte,872,2023-05-28,SKU-10889,Eletrônicos,Câmera Digital,10,5602.01,56020.100000000006,Loja Física
+220,Agatha Costela,23,RR,Roraima,Norte,974,2023-10-29,SKU-79560,Brinquedos,Patinete Infantil,3,131.58,394.74,Loja Física
+221,Gabrielly Martins,14,PA,Pará,Norte,656,2023-11-13,SKU-97371,Esporte,Patins,5,237.06,1185.3,Loja Física
+223,André Dias,10,MA,Maranhão,Nordeste,70,2023-05-21,SKU-53822,Brinquedos,Quebra-cabeça,6,122.47,734.8199999999999,Loja Física
+223,André Dias,10,MA,Maranhão,Nordeste,153,2023-01-15,SKU-10344,Brinquedos,Brinquedo Educativo,3,79.47,238.41,Loja Física
+223,André Dias,10,MA,Maranhão,Nordeste,387,2023-09-13,SKU-56364,Casa,Conjunto de Talheres,1,68.89,68.89,Loja Física
+224,Srta. Alexia Porto,24,SC,Santa Catarina,Sul,104,2023-08-01,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,10,128.9,1289.0,Loja Física
+224,Srta. Alexia Porto,24,SC,Santa Catarina,Sul,126,2023-12-06,SKU-47207,Esporte,Bicicleta Mountain Bike,2,1671.59,3343.18,Loja Física
+224,Srta. Alexia Porto,24,SC,Santa Catarina,Sul,909,2023-03-18,SKU-79560,Brinquedos,Patinete Infantil,9,131.58,1184.22,Loja Física
+226,João Felipe Duarte,1,AC,Acre,Norte,68,2023-12-30,SKU-36297,Roupas,Jaqueta de Couro,3,1959.53,5878.59,Loja Física
+226,João Felipe Duarte,1,AC,Acre,Norte,482,2023-07-30,SKU-77662,Esporte,Tapete de Yoga,2,80.11,160.22,Loja Física
+227,Sra. Alexia Vieira,27,TO,Tocantins,Norte,456,2023-12-20,SKU-86759,Eletrônicos,Smartwatch,7,185.34,1297.38,Loja Física
+229,Rafael Carvalho,24,SC,Santa Catarina,Sul,537,2023-01-02,SKU-59736,Roupas,Blusa de Moletom,10,154.46,1544.6000000000001,Loja Física
+231,Luiz Gustavo da Luz,11,MT,Mato Grosso,Centro-Oeste,232,2023-11-20,SKU-91071,Roupas,Sapatilhas Femininas,7,150.05,1050.3500000000001,Loja Física
+231,Luiz Gustavo da Luz,11,MT,Mato Grosso,Centro-Oeste,569,2023-03-25,SKU-91071,Roupas,Sapatilhas Femininas,8,150.05,1200.4,Loja Física
+232,Mirella Costa,8,ES,Espírito Santo,Sudeste,189,2023-08-18,SKU-92162,Eletrônicos,Alto-falante Bluetooth,2,1198.31,2396.62,Loja Física
+232,Mirella Costa,8,ES,Espírito Santo,Sudeste,239,2023-12-02,SKU-94109,Brinquedos,Kit de Cozinha Infantil,3,136.43,409.29,Loja Física
+232,Mirella Costa,8,ES,Espírito Santo,Sudeste,835,2023-03-15,SKU-74214,Casa,Conjunto de Panelas,3,634.4,1903.1999999999998,Loja Física
+233,Alice Farias,25,SP,São Paulo,Sudeste,142,2023-02-13,SKU-77662,Esporte,Tapete de Yoga,9,80.11,720.99,Online
+233,Alice Farias,25,SP,São Paulo,Sudeste,215,2023-02-02,SKU-53822,Brinquedos,Quebra-cabeça,5,122.47,612.35,Online
+233,Alice Farias,25,SP,São Paulo,Sudeste,363,2023-11-15,SKU-86759,Eletrônicos,Smartwatch,9,185.34,1668.06,Online
+233,Alice Farias,25,SP,São Paulo,Sudeste,768,2023-06-28,SKU-53822,Brinquedos,Quebra-cabeça,8,122.47,979.76,Online
+233,Alice Farias,25,SP,São Paulo,Sudeste,873,2023-01-12,SKU-26460,Casa,Almofada Decorativa,10,73.62,736.2,Online
+234,Yasmin da Paz,22,RO,Rondônia,Norte,100,2023-09-25,SKU-79560,Brinquedos,Patinete Infantil,2,131.58,263.16,Online
+234,Yasmin da Paz,22,RO,Rondônia,Norte,428,2023-07-05,SKU-53822,Brinquedos,Quebra-cabeça,1,122.47,122.47,Online
+235,Paulo da Costa,13,MG,Minas Gerais,Sudeste,308,2023-05-14,SKU-37178,Eletrônicos,Carregador Portátil,4,53.67,214.68,Loja Física
+235,Paulo da Costa,13,MG,Minas Gerais,Sudeste,396,2023-02-12,SKU-94109,Brinquedos,Kit de Cozinha Infantil,1,136.43,136.43,Loja Física
+235,Paulo da Costa,13,MG,Minas Gerais,Sudeste,486,2023-06-23,SKU-11521,Brinquedos,Boneca,10,142.37,1423.7,Loja Física
+235,Paulo da Costa,13,MG,Minas Gerais,Sudeste,500,2023-09-22,SKU-37178,Eletrônicos,Carregador Portátil,8,53.67,429.36,Loja Física
+235,Paulo da Costa,13,MG,Minas Gerais,Sudeste,987,2023-01-19,SKU-50582,Eletrônicos,Laptop,6,4526.6,27159.600000000002,Loja Física
+236,Brenda Silva,6,CE,Ceará,Nordeste,972,2023-09-10,SKU-10889,Eletrônicos,Câmera Digital,1,5602.01,5602.01,Online
+237,Daniel Cardoso,1,AC,Acre,Norte,240,2023-03-13,SKU-68595,Roupas,Camiseta Masculina,3,47.57,142.71,Loja Física
+237,Daniel Cardoso,1,AC,Acre,Norte,271,2023-07-12,SKU-67575,Esporte,Raquete de Tênis,9,379.94,3419.46,Loja Física
+237,Daniel Cardoso,1,AC,Acre,Norte,543,2023-05-07,SKU-37178,Eletrônicos,Carregador Portátil,4,53.67,214.68,Loja Física
+237,Daniel Cardoso,1,AC,Acre,Norte,566,2023-05-19,SKU-47220,Roupas,Tênis Esportivo,9,164.48,1480.32,Loja Física
+237,Daniel Cardoso,1,AC,Acre,Norte,567,2023-07-15,SKU-25095,Brinquedos,Jogo de Tabuleiro,1,190.34,190.34,Loja Física
+237,Daniel Cardoso,1,AC,Acre,Norte,653,2023-06-14,SKU-79560,Brinquedos,Patinete Infantil,7,131.58,921.0600000000001,Loja Física
+237,Daniel Cardoso,1,AC,Acre,Norte,716,2023-04-27,SKU-26460,Casa,Almofada Decorativa,10,73.62,736.2,Loja Física
+238,Elisa da Mata,4,AM,Amazonas,Norte,46,2023-07-30,SKU-59736,Roupas,Blusa de Moletom,10,154.46,1544.6000000000001,Online
+238,Elisa da Mata,4,AM,Amazonas,Norte,83,2023-08-16,SKU-49210,Eletrônicos,Tablet,3,715.28,2145.84,Online
+238,Elisa da Mata,4,AM,Amazonas,Norte,360,2023-09-09,SKU-37178,Eletrônicos,Carregador Portátil,3,53.67,161.01,Online
+238,Elisa da Mata,4,AM,Amazonas,Norte,426,2023-01-18,SKU-67575,Esporte,Raquete de Tênis,3,379.94,1139.82,Online
+238,Elisa da Mata,4,AM,Amazonas,Norte,507,2023-12-14,SKU-59736,Roupas,Blusa de Moletom,3,154.46,463.38,Online
+239,Isabella Oliveira,1,AC,Acre,Norte,186,2023-05-03,SKU-25095,Brinquedos,Jogo de Tabuleiro,1,190.34,190.34,Online
+239,Isabella Oliveira,1,AC,Acre,Norte,859,2023-07-26,SKU-42823,Eletrônicos,TV LED,2,4350.2,8700.4,Online
+239,Isabella Oliveira,1,AC,Acre,Norte,932,2023-03-13,SKU-69331,Casa,Organizador de Gavetas,4,136.47,545.88,Online
+240,Daniel Costa,17,PE,Pernambuco,Nordeste,696,2023-05-28,SKU-35933,Esporte,Halteres de Academia,10,249.82,2498.2,Online
+241,Guilherme Silveira,6,CE,Ceará,Nordeste,59,2023-11-11,SKU-46571,Roupas,Camisa Social,7,166.94,1168.58,Loja Física
+241,Guilherme Silveira,6,CE,Ceará,Nordeste,639,2023-01-17,SKU-46571,Roupas,Camisa Social,7,166.94,1168.58,Loja Física
+242,Sarah Teixeira,2,AL,Alagoas,Nordeste,646,2023-09-22,SKU-73390,Casa,Luminária de Mesa,3,35.83,107.49,Loja Física
+244,Levi Barros,10,MA,Maranhão,Nordeste,409,2023-02-24,SKU-67575,Esporte,Raquete de Tênis,9,379.94,3419.46,Online
+244,Levi Barros,10,MA,Maranhão,Nordeste,956,2023-10-17,SKU-59806,Casa,Jogo de Lençol,3,498.24,1494.72,Online
+245,Renan Alves,10,MA,Maranhão,Nordeste,265,2023-12-16,SKU-26460,Casa,Almofada Decorativa,6,73.62,441.72,Online
+245,Renan Alves,10,MA,Maranhão,Nordeste,889,2023-12-03,SKU-30274,Brinquedos,Kit de Desenho,1,148.7,148.7,Online
+246,Gabriel da Paz,7,DF,Distrito Federal,Centro-Oeste,284,2023-09-21,SKU-49210,Eletrônicos,Tablet,7,715.28,5006.96,Online
+246,Gabriel da Paz,7,DF,Distrito Federal,Centro-Oeste,621,2023-07-21,SKU-77662,Esporte,Tapete de Yoga,8,80.11,640.88,Online
+247,Pietro Silveira,3,AP,Amapá,Norte,297,2023-02-20,SKU-10344,Brinquedos,Brinquedo Educativo,1,79.47,79.47,Loja Física
+247,Pietro Silveira,3,AP,Amapá,Norte,602,2023-08-23,SKU-22668,Brinquedos,Carrinho de Controle Remoto,3,273.79,821.3700000000001,Loja Física
+248,Lorena Fernandes,11,MT,Mato Grosso,Centro-Oeste,234,2023-01-01,SKU-68873,Casa,Cafeteira Elétrica,4,750.7,3002.8,Online
+248,Lorena Fernandes,11,MT,Mato Grosso,Centro-Oeste,317,2023-12-04,SKU-49210,Eletrônicos,Tablet,9,715.28,6437.5199999999995,Online
+248,Lorena Fernandes,11,MT,Mato Grosso,Centro-Oeste,471,2023-10-24,SKU-56131,Roupas,Shorts de Verão,4,112.14,448.56,Online
+248,Lorena Fernandes,11,MT,Mato Grosso,Centro-Oeste,480,2023-04-09,SKU-21352,Roupas,Saia Midi,4,123.24,492.96,Online
+248,Lorena Fernandes,11,MT,Mato Grosso,Centro-Oeste,713,2023-12-04,SKU-50055,Esporte,Luva de Boxe,10,98.09,980.9000000000001,Online
+248,Lorena Fernandes,11,MT,Mato Grosso,Centro-Oeste,733,2023-10-22,SKU-97371,Esporte,Patins,1,237.06,237.06,Online
+249,Catarina Nunes,12,MS,Mato Grosso do Sul,Centro-Oeste,188,2023-01-10,SKU-72688,Eletrônicos,Smartphone,2,2718.36,5436.72,Online
+249,Catarina Nunes,12,MS,Mato Grosso do Sul,Centro-Oeste,341,2023-06-13,SKU-25929,Esporte,Mochila de Hidratação,7,295.55,2068.85,Online
+249,Catarina Nunes,12,MS,Mato Grosso do Sul,Centro-Oeste,559,2023-02-09,SKU-56364,Casa,Conjunto de Talheres,2,68.89,137.78,Online
+249,Catarina Nunes,12,MS,Mato Grosso do Sul,Centro-Oeste,703,2023-06-08,SKU-59806,Casa,Jogo de Lençol,6,498.24,2989.44,Online
+249,Catarina Nunes,12,MS,Mato Grosso do Sul,Centro-Oeste,738,2023-08-22,SKU-36297,Roupas,Jaqueta de Couro,7,1959.53,13716.71,Online
+249,Catarina Nunes,12,MS,Mato Grosso do Sul,Centro-Oeste,804,2023-01-01,SKU-47220,Roupas,Tênis Esportivo,2,164.48,328.96,Online
+249,Catarina Nunes,12,MS,Mato Grosso do Sul,Centro-Oeste,851,2023-11-03,SKU-35933,Esporte,Halteres de Academia,10,249.82,2498.2,Online
+250,Olivia Cavalcanti,5,BA,Bahia,Nordeste,359,2023-08-07,SKU-37178,Eletrônicos,Carregador Portátil,6,53.67,322.02,Online
+250,Olivia Cavalcanti,5,BA,Bahia,Nordeste,785,2023-10-22,SKU-19290,Esporte,Bola de Futebol,9,184.44,1659.96,Online
+250,Olivia Cavalcanti,5,BA,Bahia,Nordeste,957,2023-08-08,SKU-20568,Eletrônicos,Roteador Wi-Fi,6,491.41,2948.46,Online
+251,Daniela Oliveira,19,RJ,Rio de Janeiro,Sudeste,547,2023-10-10,SKU-37178,Eletrônicos,Carregador Portátil,6,53.67,322.02,Online
+252,Marcela Castro,17,PE,Pernambuco,Nordeste,737,2023-09-10,SKU-26147,Esporte,Skate,10,157.01,1570.1,Online
+253,Ana Clara Correia,20,RN,Rio Grande do Norte,Nordeste,998,2023-12-24,SKU-59806,Casa,Jogo de Lençol,5,498.24,2491.2,Loja Física
+254,Dra. Eduarda das Neves,14,PA,Pará,Norte,252,2023-05-26,SKU-72849,Casa,Cortina Blackout,9,234.54,2110.86,Loja Física
+254,Dra. Eduarda das Neves,14,PA,Pará,Norte,278,2023-12-14,SKU-67575,Esporte,Raquete de Tênis,8,379.94,3039.52,Loja Física
+254,Dra. Eduarda das Neves,14,PA,Pará,Norte,919,2023-02-09,SKU-22668,Brinquedos,Carrinho de Controle Remoto,8,273.79,2190.32,Loja Física
+255,João Vitor Souza,6,CE,Ceará,Nordeste,63,2023-03-06,SKU-50582,Eletrônicos,Laptop,3,4526.6,13579.800000000001,Loja Física
+255,João Vitor Souza,6,CE,Ceará,Nordeste,369,2023-11-16,SKU-86759,Eletrônicos,Smartwatch,10,185.34,1853.4,Loja Física
+256,Dr. Diogo da Cruz,9,GO,Goiás,Centro-Oeste,8,2023-03-02,SKU-25929,Esporte,Mochila de Hidratação,2,295.55,591.1,Online
+256,Dr. Diogo da Cruz,9,GO,Goiás,Centro-Oeste,778,2023-03-05,SKU-10344,Brinquedos,Brinquedo Educativo,3,79.47,238.41,Online
+257,Davi Sales,4,AM,Amazonas,Norte,438,2023-01-19,SKU-56131,Roupas,Shorts de Verão,10,112.14,1121.4,Loja Física
+258,Maria Costa,16,PR,Paraná,Sul,581,2023-09-18,SKU-94109,Brinquedos,Kit de Cozinha Infantil,2,136.43,272.86,Loja Física
+258,Maria Costa,16,PR,Paraná,Sul,789,2023-03-16,SKU-30274,Brinquedos,Kit de Desenho,9,148.7,1338.3,Loja Física
+259,Nicole Silva,16,PR,Paraná,Sul,66,2023-07-24,SKU-25095,Brinquedos,Jogo de Tabuleiro,4,190.34,761.36,Loja Física
+260,João Gabriel da Costa,4,AM,Amazonas,Norte,669,2023-07-10,SKU-92162,Eletrônicos,Alto-falante Bluetooth,5,1198.31,5991.549999999999,Loja Física
+261,Eduardo da Cruz,10,MA,Maranhão,Nordeste,195,2023-05-08,SKU-25929,Esporte,Mochila de Hidratação,9,295.55,2659.9500000000003,Online
+262,Gabriela Nascimento,12,MS,Mato Grosso do Sul,Centro-Oeste,534,2023-10-05,SKU-86759,Eletrônicos,Smartwatch,7,185.34,1297.38,Online
+263,Marcelo Jesus,4,AM,Amazonas,Norte,223,2023-05-14,SKU-68595,Roupas,Camiseta Masculina,8,47.57,380.56,Online
+263,Marcelo Jesus,4,AM,Amazonas,Norte,939,2023-11-14,SKU-94109,Brinquedos,Kit de Cozinha Infantil,8,136.43,1091.44,Online
+265,Mariana Peixoto,15,PB,Paraíba,Nordeste,3,2023-12-05,SKU-56131,Roupas,Shorts de Verão,9,112.14,1009.26,Online
+265,Mariana Peixoto,15,PB,Paraíba,Nordeste,176,2023-08-10,SKU-50582,Eletrônicos,Laptop,8,4526.6,36212.8,Online
+265,Mariana Peixoto,15,PB,Paraíba,Nordeste,249,2023-07-11,SKU-97371,Esporte,Patins,2,237.06,474.12,Online
+265,Mariana Peixoto,15,PB,Paraíba,Nordeste,479,2023-06-16,SKU-67575,Esporte,Raquete de Tênis,8,379.94,3039.52,Online
+265,Mariana Peixoto,15,PB,Paraíba,Nordeste,634,2023-02-23,SKU-20895,Casa,Espelho de Parede,5,226.92,1134.6,Online
+265,Mariana Peixoto,15,PB,Paraíba,Nordeste,730,2023-02-01,SKU-30676,Brinquedos,Urso de Pelúcia,2,93.4,186.8,Online
+265,Mariana Peixoto,15,PB,Paraíba,Nordeste,922,2023-02-07,SKU-22668,Brinquedos,Carrinho de Controle Remoto,9,273.79,2464.11,Online
+266,Heloísa Sales,19,RJ,Rio de Janeiro,Sudeste,685,2023-09-17,SKU-53822,Brinquedos,Quebra-cabeça,2,122.47,244.94,Online
+266,Heloísa Sales,19,RJ,Rio de Janeiro,Sudeste,1000,2023-03-27,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,8,128.9,1031.2,Online
+267,Heitor Porto,22,RO,Rondônia,Norte,48,2023-09-22,SKU-69331,Casa,Organizador de Gavetas,7,136.47,955.29,Online
+267,Heitor Porto,22,RO,Rondônia,Norte,551,2023-04-20,SKU-50055,Esporte,Luva de Boxe,10,98.09,980.9000000000001,Online
+267,Heitor Porto,22,RO,Rondônia,Norte,980,2023-11-16,SKU-46571,Roupas,Camisa Social,4,166.94,667.76,Online
+268,Emanuel Azevedo,15,PB,Paraíba,Nordeste,213,2023-01-30,SKU-79560,Brinquedos,Patinete Infantil,4,131.58,526.32,Loja Física
+269,Lorena Azevedo,24,SC,Santa Catarina,Sul,533,2023-08-21,SKU-53822,Brinquedos,Quebra-cabeça,7,122.47,857.29,Loja Física
+269,Lorena Azevedo,24,SC,Santa Catarina,Sul,605,2023-07-13,SKU-50582,Eletrônicos,Laptop,8,4526.6,36212.8,Loja Física
+269,Lorena Azevedo,24,SC,Santa Catarina,Sul,765,2023-04-23,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,1,128.9,128.9,Loja Física
+271,Davi Luiz Cardoso,4,AM,Amazonas,Norte,474,2023-04-09,SKU-30274,Brinquedos,Kit de Desenho,9,148.7,1338.3,Online
+271,Davi Luiz Cardoso,4,AM,Amazonas,Norte,756,2023-03-01,SKU-86759,Eletrônicos,Smartwatch,7,185.34,1297.38,Online
+271,Davi Luiz Cardoso,4,AM,Amazonas,Norte,840,2023-11-16,SKU-46571,Roupas,Camisa Social,7,166.94,1168.58,Online
+271,Davi Luiz Cardoso,4,AM,Amazonas,Norte,930,2023-07-28,SKU-94109,Brinquedos,Kit de Cozinha Infantil,9,136.43,1227.8700000000001,Online
+272,Gabriela Campos,23,RR,Roraima,Norte,589,2023-06-18,SKU-36297,Roupas,Jaqueta de Couro,1,1959.53,1959.53,Loja Física
+272,Gabriela Campos,23,RR,Roraima,Norte,911,2023-08-24,SKU-10889,Eletrônicos,Câmera Digital,4,5602.01,22408.04,Loja Física
+273,Júlia Costela,21,RS,Rio Grande do Sul,Sul,20,2023-11-20,SKU-86759,Eletrônicos,Smartwatch,1,185.34,185.34,Online
+273,Júlia Costela,21,RS,Rio Grande do Sul,Sul,168,2023-08-03,SKU-11521,Brinquedos,Boneca,2,142.37,284.74,Online
+273,Júlia Costela,21,RS,Rio Grande do Sul,Sul,531,2023-03-06,SKU-47220,Roupas,Tênis Esportivo,1,164.48,164.48,Online
+273,Júlia Costela,21,RS,Rio Grande do Sul,Sul,672,2023-11-10,SKU-11521,Brinquedos,Boneca,1,142.37,142.37,Online
+273,Júlia Costela,21,RS,Rio Grande do Sul,Sul,788,2023-09-06,SKU-30676,Brinquedos,Urso de Pelúcia,5,93.4,467.0,Online
+273,Júlia Costela,21,RS,Rio Grande do Sul,Sul,906,2023-12-27,SKU-10889,Eletrônicos,Câmera Digital,7,5602.01,39214.07,Online
+274,Augusto Ramos,10,MA,Maranhão,Nordeste,286,2023-05-18,SKU-10889,Eletrônicos,Câmera Digital,3,5602.01,16806.03,Online
+275,Isabel das Neves,19,RJ,Rio de Janeiro,Sudeste,38,2023-04-23,SKU-68873,Casa,Cafeteira Elétrica,6,750.7,4504.200000000001,Online
+275,Isabel das Neves,19,RJ,Rio de Janeiro,Sudeste,216,2023-03-26,SKU-36297,Roupas,Jaqueta de Couro,8,1959.53,15676.24,Online
+275,Isabel das Neves,19,RJ,Rio de Janeiro,Sudeste,724,2023-12-21,SKU-26460,Casa,Almofada Decorativa,1,73.62,73.62,Online
+277,Sra. Yasmin Pinto,13,MG,Minas Gerais,Sudeste,524,2023-02-28,SKU-56131,Roupas,Shorts de Verão,7,112.14,784.98,Loja Física
+277,Sra. Yasmin Pinto,13,MG,Minas Gerais,Sudeste,719,2023-04-27,SKU-19290,Esporte,Bola de Futebol,3,184.44,553.3199999999999,Loja Física
+278,Guilherme da Rocha,17,PE,Pernambuco,Nordeste,443,2023-02-20,SKU-28878,Roupas,Calça Jeans,4,123.17,492.68,Loja Física
+279,Sr. Luiz Felipe Teixeira,6,CE,Ceará,Nordeste,237,2023-01-10,SKU-30676,Brinquedos,Urso de Pelúcia,10,93.4,934.0,Loja Física
+279,Sr. Luiz Felipe Teixeira,6,CE,Ceará,Nordeste,339,2023-09-17,SKU-31191,Esporte,Esteira Elétrica,3,1862.8,5588.4,Loja Física
+279,Sr. Luiz Felipe Teixeira,6,CE,Ceará,Nordeste,654,2023-10-06,SKU-19290,Esporte,Bola de Futebol,6,184.44,1106.6399999999999,Loja Física
+280,Srta. Júlia Cunha,18,PI,Piauí,Nordeste,595,2023-10-12,SKU-30676,Brinquedos,Urso de Pelúcia,2,93.4,186.8,Online
+280,Srta. Júlia Cunha,18,PI,Piauí,Nordeste,758,2023-01-15,SKU-37178,Eletrônicos,Carregador Portátil,4,53.67,214.68,Online
+280,Srta. Júlia Cunha,18,PI,Piauí,Nordeste,763,2023-04-19,SKU-74214,Casa,Conjunto de Panelas,9,634.4,5709.599999999999,Online
+280,Srta. Júlia Cunha,18,PI,Piauí,Nordeste,853,2023-01-31,SKU-94109,Brinquedos,Kit de Cozinha Infantil,6,136.43,818.58,Online
+280,Srta. Júlia Cunha,18,PI,Piauí,Nordeste,892,2023-04-05,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,3,128.9,386.70000000000005,Online
+280,Srta. Júlia Cunha,18,PI,Piauí,Nordeste,903,2023-06-25,SKU-20568,Eletrônicos,Roteador Wi-Fi,4,491.41,1965.64,Online
+281,Luna Rodrigues,5,BA,Bahia,Nordeste,735,2023-05-12,SKU-25929,Esporte,Mochila de Hidratação,3,295.55,886.6500000000001,Loja Física
+281,Luna Rodrigues,5,BA,Bahia,Nordeste,767,2023-01-07,SKU-97371,Esporte,Patins,9,237.06,2133.54,Loja Física
+281,Luna Rodrigues,5,BA,Bahia,Nordeste,945,2023-08-18,SKU-28878,Roupas,Calça Jeans,6,123.17,739.02,Loja Física
+282,Luiz Henrique Jesus,2,AL,Alagoas,Nordeste,209,2023-08-05,SKU-56131,Roupas,Shorts de Verão,2,112.14,224.28,Loja Física
+282,Luiz Henrique Jesus,2,AL,Alagoas,Nordeste,721,2023-04-23,SKU-10344,Brinquedos,Brinquedo Educativo,10,79.47,794.7,Loja Física
+282,Luiz Henrique Jesus,2,AL,Alagoas,Nordeste,898,2023-03-03,SKU-69331,Casa,Organizador de Gavetas,2,136.47,272.94,Loja Física
+282,Luiz Henrique Jesus,2,AL,Alagoas,Nordeste,914,2023-03-05,SKU-21352,Roupas,Saia Midi,4,123.24,492.96,Loja Física
+283,Emilly Castro,18,PI,Piauí,Nordeste,119,2023-01-10,SKU-28878,Roupas,Calça Jeans,3,123.17,369.51,Online
+283,Emilly Castro,18,PI,Piauí,Nordeste,334,2023-07-04,SKU-21352,Roupas,Saia Midi,6,123.24,739.4399999999999,Online
+283,Emilly Castro,18,PI,Piauí,Nordeste,504,2023-12-14,SKU-37178,Eletrônicos,Carregador Portátil,8,53.67,429.36,Online
+284,Gabriela Farias,3,AP,Amapá,Norte,1,2023-08-07,SKU-73390,Casa,Luminária de Mesa,5,35.83,179.14999999999998,Online
+284,Gabriela Farias,3,AP,Amapá,Norte,113,2023-03-11,SKU-30676,Brinquedos,Urso de Pelúcia,2,93.4,186.8,Online
+284,Gabriela Farias,3,AP,Amapá,Norte,133,2023-10-28,SKU-47220,Roupas,Tênis Esportivo,8,164.48,1315.84,Online
+284,Gabriela Farias,3,AP,Amapá,Norte,661,2023-01-06,SKU-21352,Roupas,Saia Midi,1,123.24,123.24,Online
+285,Lorenzo das Neves,17,PE,Pernambuco,Nordeste,2,2023-04-01,SKU-72688,Eletrônicos,Smartphone,5,2718.36,13591.800000000001,Loja Física
+286,João Vitor Moreira,1,AC,Acre,Norte,17,2023-11-23,SKU-26460,Casa,Almofada Decorativa,7,73.62,515.34,Loja Física
+286,João Vitor Moreira,1,AC,Acre,Norte,81,2023-07-06,SKU-25095,Brinquedos,Jogo de Tabuleiro,5,190.34,951.7,Loja Física
+286,João Vitor Moreira,1,AC,Acre,Norte,614,2023-08-12,SKU-35933,Esporte,Halteres de Academia,2,249.82,499.64,Loja Física
+286,João Vitor Moreira,1,AC,Acre,Norte,845,2023-04-21,SKU-74214,Casa,Conjunto de Panelas,9,634.4,5709.599999999999,Loja Física
+286,João Vitor Moreira,1,AC,Acre,Norte,897,2023-11-26,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,8,128.9,1031.2,Loja Física
+287,Sr. Vinicius Lopes,19,RJ,Rio de Janeiro,Sudeste,606,2023-10-23,SKU-74214,Casa,Conjunto de Panelas,4,634.4,2537.6,Loja Física
+287,Sr. Vinicius Lopes,19,RJ,Rio de Janeiro,Sudeste,876,2023-09-05,SKU-46571,Roupas,Camisa Social,7,166.94,1168.58,Loja Física
+288,Igor Freitas,11,MT,Mato Grosso,Centro-Oeste,402,2023-02-19,SKU-47207,Esporte,Bicicleta Mountain Bike,9,1671.59,15044.31,Loja Física
+289,Yuri Araújo,14,PA,Pará,Norte,231,2023-01-15,SKU-19290,Esporte,Bola de Futebol,7,184.44,1291.08,Online
+289,Yuri Araújo,14,PA,Pará,Norte,577,2023-02-07,SKU-31191,Esporte,Esteira Elétrica,4,1862.8,7451.2,Online
+289,Yuri Araújo,14,PA,Pará,Norte,834,2023-05-26,SKU-47220,Roupas,Tênis Esportivo,2,164.48,328.96,Online
+289,Yuri Araújo,14,PA,Pará,Norte,841,2023-06-14,SKU-26147,Esporte,Skate,3,157.01,471.03,Online
+290,João Gabriel Mendes,16,PR,Paraná,Sul,405,2023-04-19,SKU-31191,Esporte,Esteira Elétrica,9,1862.8,16765.2,Online
+291,Yasmin da Mota,21,RS,Rio Grande do Sul,Sul,147,2023-08-07,SKU-37178,Eletrônicos,Carregador Portátil,9,53.67,483.03000000000003,Online
+291,Yasmin da Mota,21,RS,Rio Grande do Sul,Sul,495,2023-05-01,SKU-92162,Eletrônicos,Alto-falante Bluetooth,4,1198.31,4793.24,Online
+292,Yasmin Costela,21,RS,Rio Grande do Sul,Sul,151,2023-07-18,SKU-99850,Roupas,Vestido Feminino,1,354.77,354.77,Online
+292,Yasmin Costela,21,RS,Rio Grande do Sul,Sul,819,2023-06-08,SKU-36297,Roupas,Jaqueta de Couro,3,1959.53,5878.59,Online
+294,Arthur Silveira,22,RO,Rondônia,Norte,11,2023-08-30,SKU-59806,Casa,Jogo de Lençol,1,498.24,498.24,Online
+295,Dr. Lucas Gabriel Aragão,2,AL,Alagoas,Nordeste,185,2023-06-04,SKU-20895,Casa,Espelho de Parede,5,226.92,1134.6,Online
+296,Sra. Fernanda Gomes,8,ES,Espírito Santo,Sudeste,871,2023-12-23,SKU-28878,Roupas,Calça Jeans,6,123.17,739.02,Loja Física
+298,Lucas Jesus,7,DF,Distrito Federal,Centro-Oeste,407,2023-06-22,SKU-37873,Casa,Ventilador de Mesa,2,270.78,541.56,Online
+298,Lucas Jesus,7,DF,Distrito Federal,Centro-Oeste,447,2023-04-25,SKU-59806,Casa,Jogo de Lençol,4,498.24,1992.96,Online
+299,Bárbara Rocha,4,AM,Amazonas,Norte,744,2023-01-15,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,2,128.9,257.8,Loja Física
+300,Milena Novaes,25,SP,São Paulo,Sudeste,535,2023-07-20,SKU-72849,Casa,Cortina Blackout,9,234.54,2110.86,Loja Física
+300,Milena Novaes,25,SP,São Paulo,Sudeste,943,2023-08-02,SKU-92162,Eletrônicos,Alto-falante Bluetooth,3,1198.31,3594.93,Loja Física
+301,Maria Luiza Cardoso,4,AM,Amazonas,Norte,436,2023-10-06,SKU-56131,Roupas,Shorts de Verão,6,112.14,672.84,Online
+302,André Nogueira,9,GO,Goiás,Centro-Oeste,69,2023-11-30,SKU-72849,Casa,Cortina Blackout,7,234.54,1641.78,Online
+302,André Nogueira,9,GO,Goiás,Centro-Oeste,484,2023-07-02,SKU-30676,Brinquedos,Urso de Pelúcia,10,93.4,934.0,Online
+302,André Nogueira,9,GO,Goiás,Centro-Oeste,554,2023-01-20,SKU-92162,Eletrônicos,Alto-falante Bluetooth,7,1198.31,8388.17,Online
+302,André Nogueira,9,GO,Goiás,Centro-Oeste,622,2023-05-12,SKU-92162,Eletrônicos,Alto-falante Bluetooth,3,1198.31,3594.93,Online
+303,Lorena da Cruz,9,GO,Goiás,Centro-Oeste,268,2023-02-08,SKU-50055,Esporte,Luva de Boxe,3,98.09,294.27,Online
+303,Lorena da Cruz,9,GO,Goiás,Centro-Oeste,350,2023-04-27,SKU-25929,Esporte,Mochila de Hidratação,7,295.55,2068.85,Online
+304,Maria Fernanda Sales,20,RN,Rio Grande do Norte,Nordeste,78,2023-04-14,SKU-37873,Casa,Ventilador de Mesa,7,270.78,1895.4599999999998,Loja Física
+305,Isadora Nascimento,10,MA,Maranhão,Nordeste,49,2023-03-22,SKU-37873,Casa,Ventilador de Mesa,3,270.78,812.3399999999999,Online
+305,Isadora Nascimento,10,MA,Maranhão,Nordeste,98,2023-09-30,SKU-67575,Esporte,Raquete de Tênis,1,379.94,379.94,Online
+305,Isadora Nascimento,10,MA,Maranhão,Nordeste,307,2023-04-14,SKU-72688,Eletrônicos,Smartphone,7,2718.36,19028.52,Online
+306,Pedro Santos,10,MA,Maranhão,Nordeste,128,2023-10-21,SKU-67575,Esporte,Raquete de Tênis,2,379.94,759.88,Online
+307,Vicente Rodrigues,5,BA,Bahia,Nordeste,555,2023-04-12,SKU-49210,Eletrônicos,Tablet,2,715.28,1430.56,Online
+307,Vicente Rodrigues,5,BA,Bahia,Nordeste,825,2023-10-04,SKU-59806,Casa,Jogo de Lençol,5,498.24,2491.2,Online
+309,Gabriela da Cunha,26,SE,Sergipe,Nordeste,323,2023-06-28,SKU-68595,Roupas,Camiseta Masculina,9,47.57,428.13,Online
+309,Gabriela da Cunha,26,SE,Sergipe,Nordeste,766,2023-08-24,SKU-37178,Eletrônicos,Carregador Portátil,10,53.67,536.7,Online
+310,Maria Luiza Freitas,18,PI,Piauí,Nordeste,238,2023-11-18,SKU-36297,Roupas,Jaqueta de Couro,9,1959.53,17635.77,Loja Física
+310,Maria Luiza Freitas,18,PI,Piauí,Nordeste,478,2023-04-22,SKU-25929,Esporte,Mochila de Hidratação,2,295.55,591.1,Loja Física
+310,Maria Luiza Freitas,18,PI,Piauí,Nordeste,934,2023-12-01,SKU-47220,Roupas,Tênis Esportivo,6,164.48,986.8799999999999,Loja Física
+312,Vitor Caldeira,13,MG,Minas Gerais,Sudeste,177,2023-09-07,SKU-94109,Brinquedos,Kit de Cozinha Infantil,8,136.43,1091.44,Online
+312,Vitor Caldeira,13,MG,Minas Gerais,Sudeste,950,2023-02-28,SKU-69331,Casa,Organizador de Gavetas,1,136.47,136.47,Online
+314,Julia Ribeiro,17,PE,Pernambuco,Nordeste,277,2023-11-11,SKU-46571,Roupas,Camisa Social,7,166.94,1168.58,Loja Física
+314,Julia Ribeiro,17,PE,Pernambuco,Nordeste,752,2023-02-26,SKU-42823,Eletrônicos,TV LED,4,4350.2,17400.8,Loja Física
+315,Lorenzo Nogueira,25,SP,São Paulo,Sudeste,676,2023-03-15,SKU-36297,Roupas,Jaqueta de Couro,6,1959.53,11757.18,Loja Física
+315,Lorenzo Nogueira,25,SP,São Paulo,Sudeste,884,2023-07-24,SKU-21352,Roupas,Saia Midi,9,123.24,1109.1599999999999,Loja Física
+316,Ian Barbosa,12,MS,Mato Grosso do Sul,Centro-Oeste,101,2023-11-24,SKU-30676,Brinquedos,Urso de Pelúcia,2,93.4,186.8,Loja Física
+316,Ian Barbosa,12,MS,Mato Grosso do Sul,Centro-Oeste,493,2023-12-13,SKU-37873,Casa,Ventilador de Mesa,1,270.78,270.78,Loja Física
+317,Sr. Rafael Costela,21,RS,Rio Grande do Sul,Sul,165,2023-03-27,SKU-35933,Esporte,Halteres de Academia,4,249.82,999.28,Online
+317,Sr. Rafael Costela,21,RS,Rio Grande do Sul,Sul,540,2023-01-10,SKU-46571,Roupas,Camisa Social,2,166.94,333.88,Online
+317,Sr. Rafael Costela,21,RS,Rio Grande do Sul,Sul,698,2023-04-09,SKU-22668,Brinquedos,Carrinho de Controle Remoto,2,273.79,547.58,Online
+318,João Guilherme Ramos,20,RN,Rio Grande do Norte,Nordeste,796,2023-04-12,SKU-72849,Casa,Cortina Blackout,2,234.54,469.08,Online
+319,Pietra Moura,27,TO,Tocantins,Norte,397,2023-04-27,SKU-42823,Eletrônicos,TV LED,7,4350.2,30451.399999999998,Loja Física
+319,Pietra Moura,27,TO,Tocantins,Norte,995,2023-02-20,SKU-92162,Eletrônicos,Alto-falante Bluetooth,8,1198.31,9586.48,Loja Física
+320,Lorenzo da Costa,4,AM,Amazonas,Norte,270,2023-01-19,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,6,128.9,773.4000000000001,Online
+320,Lorenzo da Costa,4,AM,Amazonas,Norte,580,2023-01-19,SKU-37178,Eletrônicos,Carregador Portátil,6,53.67,322.02,Online
+321,Dr. Luiz Fernando da Mata,15,PB,Paraíba,Nordeste,145,2023-10-27,SKU-72688,Eletrônicos,Smartphone,10,2718.36,27183.600000000002,Online
+321,Dr. Luiz Fernando da Mata,15,PB,Paraíba,Nordeste,731,2023-09-29,SKU-26460,Casa,Almofada Decorativa,9,73.62,662.58,Online
+322,Caroline Caldeira,27,TO,Tocantins,Norte,792,2023-10-08,SKU-77662,Esporte,Tapete de Yoga,8,80.11,640.88,Online
+322,Caroline Caldeira,27,TO,Tocantins,Norte,893,2023-04-04,SKU-20568,Eletrônicos,Roteador Wi-Fi,6,491.41,2948.46,Online
+323,Dra. Carolina Lopes,7,DF,Distrito Federal,Centro-Oeste,167,2023-12-14,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,3,128.9,386.70000000000005,Online
+323,Dra. Carolina Lopes,7,DF,Distrito Federal,Centro-Oeste,641,2023-06-30,SKU-47207,Esporte,Bicicleta Mountain Bike,8,1671.59,13372.72,Online
+325,Murilo Alves,15,PB,Paraíba,Nordeste,207,2023-05-17,SKU-25095,Brinquedos,Jogo de Tabuleiro,8,190.34,1522.72,Loja Física
+325,Murilo Alves,15,PB,Paraíba,Nordeste,673,2023-02-13,SKU-30676,Brinquedos,Urso de Pelúcia,1,93.4,93.4,Loja Física
+325,Murilo Alves,15,PB,Paraíba,Nordeste,806,2023-06-14,SKU-49210,Eletrônicos,Tablet,5,715.28,3576.3999999999996,Loja Física
+326,Laís Farias,3,AP,Amapá,Norte,221,2023-04-16,SKU-20568,Eletrônicos,Roteador Wi-Fi,6,491.41,2948.46,Loja Física
+326,Laís Farias,3,AP,Amapá,Norte,280,2023-12-30,SKU-47207,Esporte,Bicicleta Mountain Bike,7,1671.59,11701.13,Loja Física
+327,Alexia Monteiro,4,AM,Amazonas,Norte,358,2023-09-14,SKU-11521,Brinquedos,Boneca,3,142.37,427.11,Loja Física
+328,Cauê Rocha,10,MA,Maranhão,Nordeste,64,2023-05-27,SKU-69331,Casa,Organizador de Gavetas,9,136.47,1228.23,Loja Física
+329,Rodrigo Caldeira,18,PI,Piauí,Nordeste,575,2023-04-09,SKU-94109,Brinquedos,Kit de Cozinha Infantil,9,136.43,1227.8700000000001,Online
+330,Isabel da Cunha,16,PR,Paraná,Sul,91,2023-12-07,SKU-36297,Roupas,Jaqueta de Couro,3,1959.53,5878.59,Loja Física
+330,Isabel da Cunha,16,PR,Paraná,Sul,103,2023-07-22,SKU-35933,Esporte,Halteres de Academia,3,249.82,749.46,Loja Física
+330,Isabel da Cunha,16,PR,Paraná,Sul,219,2023-10-01,SKU-77662,Esporte,Tapete de Yoga,7,80.11,560.77,Loja Física
+331,Ryan Campos,4,AM,Amazonas,Norte,450,2023-02-18,SKU-50582,Eletrônicos,Laptop,9,4526.6,40739.4,Loja Física
+331,Ryan Campos,4,AM,Amazonas,Norte,694,2023-12-01,SKU-36297,Roupas,Jaqueta de Couro,10,1959.53,19595.3,Loja Física
+333,Sra. Larissa da Rosa,8,ES,Espírito Santo,Sudeste,120,2023-12-13,SKU-56364,Casa,Conjunto de Talheres,3,68.89,206.67000000000002,Loja Física
+333,Sra. Larissa da Rosa,8,ES,Espírito Santo,Sudeste,137,2023-04-29,SKU-46571,Roupas,Camisa Social,2,166.94,333.88,Loja Física
+333,Sra. Larissa da Rosa,8,ES,Espírito Santo,Sudeste,984,2023-02-11,SKU-72849,Casa,Cortina Blackout,1,234.54,234.54,Loja Física
+334,Noah da Costa,20,RN,Rio Grande do Norte,Nordeste,701,2023-05-30,SKU-50055,Esporte,Luva de Boxe,2,98.09,196.18,Online
+335,Amanda Farias,15,PB,Paraíba,Nordeste,321,2023-04-20,SKU-30274,Brinquedos,Kit de Desenho,5,148.7,743.5,Online
+335,Amanda Farias,15,PB,Paraíba,Nordeste,711,2023-06-17,SKU-97371,Esporte,Patins,2,237.06,474.12,Online
+335,Amanda Farias,15,PB,Paraíba,Nordeste,991,2023-07-07,SKU-50055,Esporte,Luva de Boxe,8,98.09,784.72,Online
+336,Isabel Rocha,17,PE,Pernambuco,Nordeste,89,2023-11-08,SKU-72688,Eletrônicos,Smartphone,7,2718.36,19028.52,Online
+336,Isabel Rocha,17,PE,Pernambuco,Nordeste,732,2023-09-04,SKU-28878,Roupas,Calça Jeans,1,123.17,123.17,Online
+336,Isabel Rocha,17,PE,Pernambuco,Nordeste,883,2023-01-09,SKU-10889,Eletrônicos,Câmera Digital,8,5602.01,44816.08,Online
+338,Thiago Nogueira,5,BA,Bahia,Nordeste,36,2023-08-09,SKU-86759,Eletrônicos,Smartwatch,4,185.34,741.36,Loja Física
+339,Cauê Barbosa,1,AC,Acre,Norte,62,2023-01-15,SKU-19189,Brinquedos,Blocos de Montar,10,167.64,1676.3999999999999,Loja Física
+339,Cauê Barbosa,1,AC,Acre,Norte,300,2023-11-12,SKU-19189,Brinquedos,Blocos de Montar,5,167.64,838.1999999999999,Loja Física
+339,Cauê Barbosa,1,AC,Acre,Norte,468,2023-04-25,SKU-30676,Brinquedos,Urso de Pelúcia,4,93.4,373.6,Loja Física
+339,Cauê Barbosa,1,AC,Acre,Norte,587,2023-11-04,SKU-77662,Esporte,Tapete de Yoga,6,80.11,480.65999999999997,Loja Física
+340,Catarina Silveira,25,SP,São Paulo,Sudeste,517,2023-02-17,SKU-50582,Eletrônicos,Laptop,7,4526.6,31686.200000000004,Online
+341,Maria Sophia Jesus,24,SC,Santa Catarina,Sul,162,2023-01-21,SKU-72849,Casa,Cortina Blackout,10,234.54,2345.4,Online
+341,Maria Sophia Jesus,24,SC,Santa Catarina,Sul,536,2023-04-15,SKU-47220,Roupas,Tênis Esportivo,3,164.48,493.43999999999994,Online
+341,Maria Sophia Jesus,24,SC,Santa Catarina,Sul,576,2023-03-29,SKU-10889,Eletrônicos,Câmera Digital,6,5602.01,33612.06,Online
+341,Maria Sophia Jesus,24,SC,Santa Catarina,Sul,692,2023-11-18,SKU-92162,Eletrônicos,Alto-falante Bluetooth,1,1198.31,1198.31,Online
+342,Dra. Emanuelly Moraes,2,AL,Alagoas,Nordeste,134,2023-02-20,SKU-47220,Roupas,Tênis Esportivo,1,164.48,164.48,Loja Física
+342,Dra. Emanuelly Moraes,2,AL,Alagoas,Nordeste,338,2023-11-10,SKU-99850,Roupas,Vestido Feminino,1,354.77,354.77,Loja Física
+342,Dra. Emanuelly Moraes,2,AL,Alagoas,Nordeste,354,2023-01-29,SKU-19290,Esporte,Bola de Futebol,1,184.44,184.44,Loja Física
+342,Dra. Emanuelly Moraes,2,AL,Alagoas,Nordeste,550,2023-06-17,SKU-73390,Casa,Luminária de Mesa,6,35.83,214.98,Loja Física
+342,Dra. Emanuelly Moraes,2,AL,Alagoas,Nordeste,687,2023-12-01,SKU-28878,Roupas,Calça Jeans,6,123.17,739.02,Loja Física
+343,Vitória da Rocha,4,AM,Amazonas,Norte,214,2023-06-24,SKU-26147,Esporte,Skate,7,157.01,1099.07,Loja Física
+344,Juliana da Cunha,1,AC,Acre,Norte,24,2023-02-09,SKU-19189,Brinquedos,Blocos de Montar,10,167.64,1676.3999999999999,Loja Física
+344,Juliana da Cunha,1,AC,Acre,Norte,152,2023-03-12,SKU-59736,Roupas,Blusa de Moletom,3,154.46,463.38,Loja Física
+344,Juliana da Cunha,1,AC,Acre,Norte,476,2023-01-02,SKU-36297,Roupas,Jaqueta de Couro,1,1959.53,1959.53,Loja Física
+344,Juliana da Cunha,1,AC,Acre,Norte,666,2023-07-13,SKU-67575,Esporte,Raquete de Tênis,4,379.94,1519.76,Loja Física
+344,Juliana da Cunha,1,AC,Acre,Norte,712,2023-03-10,SKU-30274,Brinquedos,Kit de Desenho,6,148.7,892.1999999999999,Loja Física
+345,Sr. Emanuel Melo,18,PI,Piauí,Nordeste,466,2023-06-07,SKU-69331,Casa,Organizador de Gavetas,1,136.47,136.47,Online
+345,Sr. Emanuel Melo,18,PI,Piauí,Nordeste,616,2023-05-21,SKU-30676,Brinquedos,Urso de Pelúcia,3,93.4,280.20000000000005,Online
+345,Sr. Emanuel Melo,18,PI,Piauí,Nordeste,827,2023-06-26,SKU-37873,Casa,Ventilador de Mesa,1,270.78,270.78,Online
+346,Luiz Felipe Alves,17,PE,Pernambuco,Nordeste,881,2023-10-26,SKU-53822,Brinquedos,Quebra-cabeça,2,122.47,244.94,Loja Física
+347,Thomas Cardoso,14,PA,Pará,Norte,172,2023-02-23,SKU-37873,Casa,Ventilador de Mesa,2,270.78,541.56,Loja Física
+347,Thomas Cardoso,14,PA,Pará,Norte,628,2023-01-25,SKU-86759,Eletrônicos,Smartwatch,9,185.34,1668.06,Loja Física
+348,Ana Beatriz Gomes,6,CE,Ceará,Nordeste,276,2023-09-04,SKU-26147,Esporte,Skate,7,157.01,1099.07,Online
+348,Ana Beatriz Gomes,6,CE,Ceará,Nordeste,379,2023-07-26,SKU-35933,Esporte,Halteres de Academia,7,249.82,1748.74,Online
+349,João Vitor Gonçalves,19,RJ,Rio de Janeiro,Sudeste,541,2023-07-01,SKU-10344,Brinquedos,Brinquedo Educativo,5,79.47,397.35,Online
+350,Luiz Henrique Sales,19,RJ,Rio de Janeiro,Sudeste,811,2023-09-05,SKU-56364,Casa,Conjunto de Talheres,9,68.89,620.01,Online
+350,Luiz Henrique Sales,19,RJ,Rio de Janeiro,Sudeste,813,2023-08-10,SKU-77662,Esporte,Tapete de Yoga,4,80.11,320.44,Online
+351,Thales Melo,5,BA,Bahia,Nordeste,43,2023-04-27,SKU-22668,Brinquedos,Carrinho de Controle Remoto,8,273.79,2190.32,Loja Física
+351,Thales Melo,5,BA,Bahia,Nordeste,717,2023-01-29,SKU-79560,Brinquedos,Patinete Infantil,10,131.58,1315.8000000000002,Loja Física
+352,Nicolas Moura,8,ES,Espírito Santo,Sudeste,279,2023-03-19,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,8,128.9,1031.2,Loja Física
+352,Nicolas Moura,8,ES,Espírito Santo,Sudeste,652,2023-09-30,SKU-50055,Esporte,Luva de Boxe,3,98.09,294.27,Loja Física
+353,Ana Lívia da Costa,10,MA,Maranhão,Nordeste,617,2023-06-24,SKU-21352,Roupas,Saia Midi,9,123.24,1109.1599999999999,Loja Física
+353,Ana Lívia da Costa,10,MA,Maranhão,Nordeste,947,2023-02-05,SKU-30274,Brinquedos,Kit de Desenho,6,148.7,892.1999999999999,Loja Física
+355,Natália Gomes,24,SC,Santa Catarina,Sul,816,2023-10-07,SKU-53822,Brinquedos,Quebra-cabeça,4,122.47,489.88,Loja Física
+357,Alexia da Rocha,3,AP,Amapá,Norte,512,2023-11-23,SKU-25095,Brinquedos,Jogo de Tabuleiro,1,190.34,190.34,Loja Física
+357,Alexia da Rocha,3,AP,Amapá,Norte,749,2023-05-18,SKU-79560,Brinquedos,Patinete Infantil,7,131.58,921.0600000000001,Loja Física
+357,Alexia da Rocha,3,AP,Amapá,Norte,933,2023-07-05,SKU-72849,Casa,Cortina Blackout,4,234.54,938.16,Loja Física
+358,Agatha Moraes,14,PA,Pará,Norte,327,2023-06-25,SKU-37178,Eletrônicos,Carregador Portátil,5,53.67,268.35,Online
+359,Luiza Duarte,20,RN,Rio Grande do Norte,Nordeste,88,2023-01-14,SKU-11521,Brinquedos,Boneca,4,142.37,569.48,Online
+359,Luiza Duarte,20,RN,Rio Grande do Norte,Nordeste,865,2023-06-15,SKU-50582,Eletrônicos,Laptop,3,4526.6,13579.800000000001,Online
+359,Luiza Duarte,20,RN,Rio Grande do Norte,Nordeste,925,2023-06-07,SKU-10889,Eletrônicos,Câmera Digital,9,5602.01,50418.090000000004,Online
+359,Luiza Duarte,20,RN,Rio Grande do Norte,Nordeste,949,2023-01-19,SKU-35933,Esporte,Halteres de Academia,6,249.82,1498.92,Online
+360,Augusto da Cruz,12,MS,Mato Grosso do Sul,Centro-Oeste,382,2023-07-24,SKU-94109,Brinquedos,Kit de Cozinha Infantil,10,136.43,1364.3000000000002,Loja Física
+360,Augusto da Cruz,12,MS,Mato Grosso do Sul,Centro-Oeste,470,2023-08-27,SKU-21352,Roupas,Saia Midi,1,123.24,123.24,Loja Física
+361,Manuela Cavalcanti,1,AC,Acre,Norte,598,2023-06-18,SKU-37178,Eletrônicos,Carregador Portátil,3,53.67,161.01,Loja Física
+362,Enzo Gabriel Rezende,8,ES,Espírito Santo,Sudeste,842,2023-02-14,SKU-19189,Brinquedos,Blocos de Montar,8,167.64,1341.12,Loja Física
+363,Noah Duarte,18,PI,Piauí,Nordeste,847,2023-06-27,SKU-47220,Roupas,Tênis Esportivo,5,164.48,822.4,Loja Física
+364,Rebeca Mendes,27,TO,Tocantins,Norte,26,2023-08-20,SKU-19290,Esporte,Bola de Futebol,3,184.44,553.3199999999999,Online
+364,Rebeca Mendes,27,TO,Tocantins,Norte,264,2023-06-04,SKU-20895,Casa,Espelho de Parede,6,226.92,1361.52,Online
+364,Rebeca Mendes,27,TO,Tocantins,Norte,982,2023-08-23,SKU-67575,Esporte,Raquete de Tênis,5,379.94,1899.7,Online
+365,Juan Porto,12,MS,Mato Grosso do Sul,Centro-Oeste,283,2023-05-20,SKU-68595,Roupas,Camiseta Masculina,6,47.57,285.42,Online
+365,Juan Porto,12,MS,Mato Grosso do Sul,Centro-Oeste,757,2023-07-24,SKU-50582,Eletrônicos,Laptop,9,4526.6,40739.4,Online
+366,Vinicius Carvalho,14,PA,Pará,Norte,623,2023-04-29,SKU-50582,Eletrônicos,Laptop,8,4526.6,36212.8,Online
+368,Leandro das Neves,12,MS,Mato Grosso do Sul,Centro-Oeste,797,2023-10-15,SKU-11521,Brinquedos,Boneca,5,142.37,711.85,Loja Física
+369,Larissa Campos,3,AP,Amapá,Norte,444,2023-12-18,SKU-30676,Brinquedos,Urso de Pelúcia,2,93.4,186.8,Online
+369,Larissa Campos,3,AP,Amapá,Norte,924,2023-10-15,SKU-47220,Roupas,Tênis Esportivo,5,164.48,822.4,Online
+370,Bernardo Silveira,26,SE,Sergipe,Nordeste,659,2023-09-13,SKU-30274,Brinquedos,Kit de Desenho,4,148.7,594.8,Online
+370,Bernardo Silveira,26,SE,Sergipe,Nordeste,743,2023-10-31,SKU-53822,Brinquedos,Quebra-cabeça,8,122.47,979.76,Online
+370,Bernardo Silveira,26,SE,Sergipe,Nordeste,762,2023-05-05,SKU-68873,Casa,Cafeteira Elétrica,3,750.7,2252.1000000000004,Online
+372,Stephany Ribeiro,18,PI,Piauí,Nordeste,935,2023-09-03,SKU-74214,Casa,Conjunto de Panelas,2,634.4,1268.8,Online
+373,Fernando Barbosa,9,GO,Goiás,Centro-Oeste,310,2023-03-12,SKU-26460,Casa,Almofada Decorativa,9,73.62,662.58,Online
+373,Fernando Barbosa,9,GO,Goiás,Centro-Oeste,385,2023-09-17,SKU-79560,Brinquedos,Patinete Infantil,6,131.58,789.48,Online
+374,Enrico Almeida,27,TO,Tocantins,Norte,115,2023-11-25,SKU-28878,Roupas,Calça Jeans,2,123.17,246.34,Online
+374,Enrico Almeida,27,TO,Tocantins,Norte,442,2023-05-20,SKU-74214,Casa,Conjunto de Panelas,8,634.4,5075.2,Online
+374,Enrico Almeida,27,TO,Tocantins,Norte,791,2023-08-07,SKU-42823,Eletrônicos,TV LED,2,4350.2,8700.4,Online
+374,Enrico Almeida,27,TO,Tocantins,Norte,846,2023-12-06,SKU-50055,Esporte,Luva de Boxe,5,98.09,490.45000000000005,Online
+375,Thiago Cardoso,10,MA,Maranhão,Nordeste,671,2023-03-01,SKU-10344,Brinquedos,Brinquedo Educativo,5,79.47,397.35,Online
+376,Dr. Luiz Fernando Ribeiro,6,CE,Ceará,Nordeste,243,2023-10-11,SKU-91071,Roupas,Sapatilhas Femininas,3,150.05,450.15000000000003,Loja Física
+376,Dr. Luiz Fernando Ribeiro,6,CE,Ceará,Nordeste,380,2023-01-28,SKU-99850,Roupas,Vestido Feminino,7,354.77,2483.39,Loja Física
+376,Dr. Luiz Fernando Ribeiro,6,CE,Ceará,Nordeste,509,2023-02-10,SKU-59736,Roupas,Blusa de Moletom,1,154.46,154.46,Loja Física
+376,Dr. Luiz Fernando Ribeiro,6,CE,Ceará,Nordeste,742,2023-02-26,SKU-10889,Eletrônicos,Câmera Digital,8,5602.01,44816.08,Loja Física
+376,Dr. Luiz Fernando Ribeiro,6,CE,Ceará,Nordeste,879,2023-01-01,SKU-50055,Esporte,Luva de Boxe,6,98.09,588.54,Loja Física
+376,Dr. Luiz Fernando Ribeiro,6,CE,Ceará,Nordeste,994,2023-03-16,SKU-97371,Esporte,Patins,10,237.06,2370.6,Loja Física
+377,Davi Lucca da Conceição,14,PA,Pará,Norte,227,2023-04-27,SKU-20895,Casa,Espelho de Parede,3,226.92,680.76,Online
+379,Isis Barros,27,TO,Tocantins,Norte,30,2023-11-16,SKU-94109,Brinquedos,Kit de Cozinha Infantil,3,136.43,409.29,Online
+379,Isis Barros,27,TO,Tocantins,Norte,584,2023-04-20,SKU-59806,Casa,Jogo de Lençol,9,498.24,4484.16,Online
+379,Isis Barros,27,TO,Tocantins,Norte,728,2023-04-15,SKU-21352,Roupas,Saia Midi,6,123.24,739.4399999999999,Online
+380,Gabriel Alves,6,CE,Ceará,Nordeste,14,2023-07-12,SKU-91071,Roupas,Sapatilhas Femininas,4,150.05,600.2,Online
+380,Gabriel Alves,6,CE,Ceará,Nordeste,305,2023-07-12,SKU-97371,Esporte,Patins,3,237.06,711.1800000000001,Online
+381,Theo Silva,19,RJ,Rio de Janeiro,Sudeste,631,2023-04-13,SKU-21352,Roupas,Saia Midi,2,123.24,246.48,Online
+381,Theo Silva,19,RJ,Rio de Janeiro,Sudeste,688,2023-05-06,SKU-19189,Brinquedos,Blocos de Montar,2,167.64,335.28,Online
+381,Theo Silva,19,RJ,Rio de Janeiro,Sudeste,808,2023-08-17,SKU-74214,Casa,Conjunto de Panelas,3,634.4,1903.1999999999998,Online
+382,Erick Rocha,18,PI,Piauí,Nordeste,313,2023-11-06,SKU-36297,Roupas,Jaqueta de Couro,10,1959.53,19595.3,Online
+382,Erick Rocha,18,PI,Piauí,Nordeste,620,2023-04-26,SKU-30676,Brinquedos,Urso de Pelúcia,2,93.4,186.8,Online
+383,Sr. Vitor Araújo,6,CE,Ceará,Nordeste,52,2023-12-22,SKU-28878,Roupas,Calça Jeans,6,123.17,739.02,Loja Física
+383,Sr. Vitor Araújo,6,CE,Ceará,Nordeste,84,2023-05-23,SKU-47207,Esporte,Bicicleta Mountain Bike,7,1671.59,11701.13,Loja Física
+383,Sr. Vitor Araújo,6,CE,Ceará,Nordeste,388,2023-01-09,SKU-56364,Casa,Conjunto de Talheres,9,68.89,620.01,Loja Física
+383,Sr. Vitor Araújo,6,CE,Ceará,Nordeste,497,2023-03-01,SKU-22668,Brinquedos,Carrinho de Controle Remoto,1,273.79,273.79,Loja Física
+383,Sr. Vitor Araújo,6,CE,Ceará,Nordeste,558,2023-07-28,SKU-97371,Esporte,Patins,1,237.06,237.06,Loja Física
+384,Stella das Neves,2,AL,Alagoas,Nordeste,928,2023-07-23,SKU-30676,Brinquedos,Urso de Pelúcia,5,93.4,467.0,Online
+385,Rodrigo Castro,20,RN,Rio Grande do Norte,Nordeste,404,2023-12-31,SKU-97371,Esporte,Patins,6,237.06,1422.3600000000001,Online
+385,Rodrigo Castro,20,RN,Rio Grande do Norte,Nordeste,490,2023-09-27,SKU-11521,Brinquedos,Boneca,2,142.37,284.74,Online
+386,Vitória Campos,14,PA,Pará,Norte,241,2023-01-17,SKU-59736,Roupas,Blusa de Moletom,4,154.46,617.84,Online
+387,Igor Sales,24,SC,Santa Catarina,Sul,335,2023-12-16,SKU-91071,Roupas,Sapatilhas Femininas,4,150.05,600.2,Online
+390,Kevin Carvalho,11,MT,Mato Grosso,Centro-Oeste,105,2023-12-19,SKU-53822,Brinquedos,Quebra-cabeça,9,122.47,1102.23,Loja Física
+390,Kevin Carvalho,11,MT,Mato Grosso,Centro-Oeste,127,2023-05-11,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,5,128.9,644.5,Loja Física
+391,Ana Vitória Melo,20,RN,Rio Grande do Norte,Nordeste,233,2023-05-26,SKU-37178,Eletrônicos,Carregador Portátil,5,53.67,268.35,Loja Física
+392,Srta. Melissa Viana,17,PE,Pernambuco,Nordeste,206,2023-10-10,SKU-11521,Brinquedos,Boneca,3,142.37,427.11,Online
+393,Nina Lima,5,BA,Bahia,Nordeste,58,2023-08-06,SKU-26147,Esporte,Skate,9,157.01,1413.09,Online
+393,Nina Lima,5,BA,Bahia,Nordeste,485,2023-09-12,SKU-31191,Esporte,Esteira Elétrica,1,1862.8,1862.8,Online
+393,Nina Lima,5,BA,Bahia,Nordeste,981,2023-03-03,SKU-97371,Esporte,Patins,3,237.06,711.1800000000001,Online
+393,Nina Lima,5,BA,Bahia,Nordeste,990,2023-03-30,SKU-20895,Casa,Espelho de Parede,6,226.92,1361.52,Online
+394,Pedro Castro,22,RO,Rondônia,Norte,312,2023-09-28,SKU-53822,Brinquedos,Quebra-cabeça,7,122.47,857.29,Loja Física
+394,Pedro Castro,22,RO,Rondônia,Norte,344,2023-10-19,SKU-94109,Brinquedos,Kit de Cozinha Infantil,8,136.43,1091.44,Loja Física
+394,Pedro Castro,22,RO,Rondônia,Norte,966,2023-03-17,SKU-35933,Esporte,Halteres de Academia,1,249.82,249.82,Loja Física
+395,Marcela Campos,16,PR,Paraná,Sul,266,2023-10-16,SKU-36297,Roupas,Jaqueta de Couro,5,1959.53,9797.65,Loja Física
+395,Marcela Campos,16,PR,Paraná,Sul,378,2023-08-23,SKU-68595,Roupas,Camiseta Masculina,9,47.57,428.13,Loja Física
+395,Marcela Campos,16,PR,Paraná,Sul,784,2023-09-07,SKU-37873,Casa,Ventilador de Mesa,9,270.78,2437.0199999999995,Loja Física
+396,Elisa Ramos,20,RN,Rio Grande do Norte,Nordeste,356,2023-07-20,SKU-91071,Roupas,Sapatilhas Femininas,7,150.05,1050.3500000000001,Online
+396,Elisa Ramos,20,RN,Rio Grande do Norte,Nordeste,588,2023-11-10,SKU-26147,Esporte,Skate,8,157.01,1256.08,Online
+397,Isadora Melo,22,RO,Rondônia,Norte,320,2023-06-08,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,5,128.9,644.5,Online
+398,Dra. Olivia Caldeira,21,RS,Rio Grande do Sul,Sul,210,2023-11-24,SKU-56364,Casa,Conjunto de Talheres,1,68.89,68.89,Online
+398,Dra. Olivia Caldeira,21,RS,Rio Grande do Sul,Sul,255,2023-02-24,SKU-47207,Esporte,Bicicleta Mountain Bike,7,1671.59,11701.13,Online
+398,Dra. Olivia Caldeira,21,RS,Rio Grande do Sul,Sul,435,2023-05-30,SKU-86759,Eletrônicos,Smartwatch,2,185.34,370.68,Online
+399,Alana da Cunha,4,AM,Amazonas,Norte,124,2023-04-28,SKU-10344,Brinquedos,Brinquedo Educativo,4,79.47,317.88,Loja Física
+399,Alana da Cunha,4,AM,Amazonas,Norte,376,2023-08-29,SKU-86759,Eletrônicos,Smartwatch,9,185.34,1668.06,Loja Física
+399,Alana da Cunha,4,AM,Amazonas,Norte,794,2023-11-06,SKU-28878,Roupas,Calça Jeans,10,123.17,1231.7,Loja Física
+399,Alana da Cunha,4,AM,Amazonas,Norte,900,2023-08-14,SKU-79560,Brinquedos,Patinete Infantil,4,131.58,526.32,Loja Física
+400,Srta. Gabrielly Sales,12,MS,Mato Grosso do Sul,Centro-Oeste,200,2023-06-28,SKU-56364,Casa,Conjunto de Talheres,4,68.89,275.56,Loja Física
+400,Srta. Gabrielly Sales,12,MS,Mato Grosso do Sul,Centro-Oeste,969,2023-12-01,SKU-72849,Casa,Cortina Blackout,7,234.54,1641.78,Loja Física
+401,Heitor Monteiro,6,CE,Ceará,Nordeste,55,2023-02-17,SKU-77662,Esporte,Tapete de Yoga,8,80.11,640.88,Loja Física
+401,Heitor Monteiro,6,CE,Ceará,Nordeste,116,2023-08-13,SKU-53822,Brinquedos,Quebra-cabeça,8,122.47,979.76,Loja Física
+402,Kaique Pereira,21,RS,Rio Grande do Sul,Sul,303,2023-01-26,SKU-92162,Eletrônicos,Alto-falante Bluetooth,7,1198.31,8388.17,Loja Física
+402,Kaique Pereira,21,RS,Rio Grande do Sul,Sul,597,2023-11-22,SKU-68595,Roupas,Camiseta Masculina,3,47.57,142.71,Loja Física
+402,Kaique Pereira,21,RS,Rio Grande do Sul,Sul,913,2023-06-19,SKU-56364,Casa,Conjunto de Talheres,1,68.89,68.89,Loja Física
+403,Luiz Gustavo Melo,20,RN,Rio Grande do Norte,Nordeste,370,2023-10-07,SKU-49210,Eletrônicos,Tablet,2,715.28,1430.56,Online
+403,Luiz Gustavo Melo,20,RN,Rio Grande do Norte,Nordeste,870,2023-09-26,SKU-91071,Roupas,Sapatilhas Femininas,10,150.05,1500.5,Online
+404,Enzo Moreira,8,ES,Espírito Santo,Sudeste,814,2023-01-12,SKU-92162,Eletrônicos,Alto-falante Bluetooth,4,1198.31,4793.24,Loja Física
+405,Dra. Clara Rezende,4,AM,Amazonas,Norte,861,2023-05-07,SKU-54960,Eletrônicos,Fone de Ouvido Bluetooth,6,128.9,773.4000000000001,Online
+406,João Guilherme Ramos,10,MA,Maranhão,Nordeste,123,2023-10-15,SKU-59806,Casa,Jogo de Lençol,9,498.24,4484.16,Online
+406,João Guilherme Ramos,10,MA,Maranhão,Nordeste,288,2023-03-26,SKU-99850,Roupas,Vestido Feminino,9,354.77,3192.93,Online
+407,Diego Pereira,26,SE,Sergipe,Nordeste,7,2023-08-15,SKU-35933,Esporte,Halteres de Academia,1,249.82,249.82,Online
+408,Lara Dias,14,PA,Pará,Norte,691,2023-11-04,SKU-59736,Roupas,Blusa de Moletom,4,154.46,617.84,Online
+408,Lara Dias,14,PA,Pará,Norte,705,2023-03-20,SKU-35933,Esporte,Halteres de Academia,8,249.82,1998.56,Online
+409,Vitor Campos,22,RO,Rondônia,Norte,420,2023-04-08,SKU-53822,Brinquedos,Quebra-cabeça,7,122.47,857.29,Loja Física
+409,Vitor Campos,22,RO,Rondônia,Norte,668,2023-12-23,SKU-72849,Casa,Cortina Blackout,6,234.54,1407.24,Loja Física
+411,Nina Peixoto,8,ES,Espírito Santo,Sudeste,57,2023-12-15,SKU-26147,Esporte,Skate,9,157.01,1413.09,Online
+412,Enzo Vieira,26,SE,Sergipe,Nordeste,193,2023-07-17,SKU-56131,Roupas,Shorts de Verão,9,112.14,1009.26,Online
+412,Enzo Vieira,26,SE,Sergipe,Nordeste,285,2023-12-09,SKU-49210,Eletrônicos,Tablet,5,715.28,3576.3999999999996,Online
+412,Enzo Vieira,26,SE,Sergipe,Nordeste,833,2023-04-09,SKU-22668,Brinquedos,Carrinho de Controle Remoto,2,273.79,547.58,Online
+412,Enzo Vieira,26,SE,Sergipe,Nordeste,921,2023-07-03,SKU-92162,Eletrônicos,Alto-falante Bluetooth,9,1198.31,10784.789999999999,Online
+413,Ana Beatriz Gonçalves,20,RN,Rio Grande do Norte,Nordeste,464,2023-07-13,SKU-50055,Esporte,Luva de Boxe,7,98.09,686.63,Online
+413,Ana Beatriz Gonçalves,20,RN,Rio Grande do Norte,Nordeste,745,2023-05-11,SKU-30676,Brinquedos,Urso de Pelúcia,10,93.4,934.0,Online
+415,Srta. Bruna Araújo,23,RR,Roraima,Norte,18,2023-10-24,SKU-19189,Brinquedos,Blocos de Montar,7,167.64,1173.48,Online
+415,Srta. Bruna Araújo,23,RR,Roraima,Norte,80,2023-10-18,SKU-19189,Brinquedos,Blocos de Montar,8,167.64,1341.12,Online
+415,Srta. Bruna Araújo,23,RR,Roraima,Norte,831,2023-06-30,SKU-37178,Eletrônicos,Carregador Portátil,2,53.67,107.34,Online
+415,Srta. Bruna Araújo,23,RR,Roraima,Norte,887,2023-06-06,SKU-20895,Casa,Espelho de Parede,3,226.92,680.76,Online
+416,André da Conceição,26,SE,Sergipe,Nordeste,71,2023-09-07,SKU-20568,Eletrônicos,Roteador Wi-Fi,1,491.41,491.41,Loja Física
+416,André da Conceição,26,SE,Sergipe,Nordeste,164,2023-03-16,SKU-91071,Roupas,Sapatilhas Femininas,5,150.05,750.25,Loja Física
+416,André da Conceição,26,SE,Sergipe,Nordeste,331,2023-10-30,SKU-50582,Eletrônicos,Laptop,7,4526.6,31686.200000000004,Loja Física
+416,André da Conceição,26,SE,Sergipe,Nordeste,408,2023-08-29,SKU-72849,Casa,Cortina Blackout,7,234.54,1641.78,Loja Física
+416,André da Conceição,26,SE,Sergipe,Nordeste,453,2023-02-13,SKU-99850,Roupas,Vestido Feminino,10,354.77,3547.7,Loja Física
+416,André da Conceição,26,SE,Sergipe,Nordeste,854,2023-02-16,SKU-59806,Casa,Jogo de Lençol,7,498.24,3487.6800000000003,Loja Física
+416,André da Conceição,26,SE,Sergipe,Nordeste,920,2023-03-10,SKU-73390,Casa,Luminária de Mesa,2,35.83,71.66,Loja Física
+417,Ana Luiza Ribeiro,3,AP,Amapá,Norte,574,2023-02-13,SKU-19189,Brinquedos,Blocos de Montar,10,167.64,1676.3999999999999,Loja Física
+417,Ana Luiza Ribeiro,3,AP,Amapá,Norte,983,2023-05-25,SKU-53822,Brinquedos,Quebra-cabeça,4,122.47,489.88,Loja Física
+418,João Guilherme Almeida,19,RJ,Rio de Janeiro,Sudeste,156,2023-01-08,SKU-73390,Casa,Luminária de Mesa,8,35.83,286.64,Loja Física
+418,João Guilherme Almeida,19,RJ,Rio de Janeiro,Sudeste,644,2023-03-11,SKU-56131,Roupas,Shorts de Verão,7,112.14,784.98,Loja Física
+418,João Guilherme Almeida,19,RJ,Rio de Janeiro,Sudeste,779,2023-01-24,SKU-37873,Casa,Ventilador de Mesa,8,270.78,2166.24,Loja Física
+418,João Guilherme Almeida,19,RJ,Rio de Janeiro,Sudeste,801,2023-12-18,SKU-19290,Esporte,Bola de Futebol,3,184.44,553.3199999999999,Loja Física
+418,João Guilherme Almeida,19,RJ,Rio de Janeiro,Sudeste,904,2023-12-16,SKU-92162,Eletrônicos,Alto-falante Bluetooth,9,1198.31,10784.789999999999,Loja Física
+419,Emilly da Cruz,9,GO,Goiás,Centro-Oeste,314,2023-01-07,SKU-31191,Esporte,Esteira Elétrica,2,1862.8,3725.6,Online
+419,Emilly da Cruz,9,GO,Goiás,Centro-Oeste,521,2023-01-18,SKU-20568,Eletrônicos,Roteador Wi-Fi,3,491.41,1474.23,Online
+419,Emilly da Cruz,9,GO,Goiás,Centro-Oeste,599,2023-07-19,SKU-25929,Esporte,Mochila de Hidratação,10,295.55,2955.5,Online
+419,Emilly da Cruz,9,GO,Goiás,Centro-Oeste,613,2023-01-25,SKU-25929,Esporte,Mochila de Hidratação,9,295.55,2659.9500000000003,Online
+419,Emilly da Cruz,9,GO,Goiás,Centro-Oeste,697,2023-07-14,SKU-73390,Casa,Luminária de Mesa,6,35.83,214.98,Online
+419,Emilly da Cruz,9,GO,Goiás,Centro-Oeste,992,2023-07-30,SKU-73390,Casa,Luminária de Mesa,4,35.83,143.32,Online
+420,Pedro Duarte,4,AM,Amazonas,Norte,432,2023-02-01,SKU-21352,Roupas,Saia Midi,10,123.24,1232.3999999999999,Online
+421,Ana Julia Cardoso,21,RS,Rio Grande do Sul,Sul,451,2023-10-07,SKU-20568,Eletrônicos,Roteador Wi-Fi,3,491.41,1474.23,Loja Física
+421,Ana Julia Cardoso,21,RS,Rio Grande do Sul,Sul,753,2023-10-22,SKU-30274,Brinquedos,Kit de Desenho,9,148.7,1338.3,Loja Física
+421,Ana Julia Cardoso,21,RS,Rio Grande do Sul,Sul,761,2023-06-15,SKU-42823,Eletrônicos,TV LED,5,4350.2,21751.0,Loja Física
+421,Ana Julia Cardoso,21,RS,Rio Grande do Sul,Sul,977,2023-06-14,SKU-91071,Roupas,Sapatilhas Femininas,1,150.05,150.05,Loja Física
+422,Ana Júlia Mendes,10,MA,Maranhão,Nordeste,281,2023-05-04,SKU-20895,Casa,Espelho de Parede,7,226.92,1588.4399999999998,Loja Física
+422,Ana Júlia Mendes,10,MA,Maranhão,Nordeste,427,2023-06-14,SKU-30274,Brinquedos,Kit de Desenho,8,148.7,1189.6,Loja Física
+422,Ana Júlia Mendes,10,MA,Maranhão,Nordeste,496,2023-11-16,SKU-37178,Eletrônicos,Carregador Portátil,9,53.67,483.03000000000003,Loja Física
+422,Ana Júlia Mendes,10,MA,Maranhão,Nordeste,800,2023-06-16,SKU-19290,Esporte,Bola de Futebol,7,184.44,1291.08,Loja Física
+423,Ana Júlia da Mata,3,AP,Amapá,Norte,374,2023-02-22,SKU-56131,Roupas,Shorts de Verão,10,112.14,1121.4,Loja Física
+424,Bárbara Aragão,5,BA,Bahia,Nordeste,96,2023-06-29,SKU-53822,Brinquedos,Quebra-cabeça,10,122.47,1224.7,Loja Física
+425,Sra. Lívia da Cruz,1,AC,Acre,Norte,19,2023-01-02,SKU-69331,Casa,Organizador de Gavetas,4,136.47,545.88,Loja Física
+426,Lívia Barros,20,RN,Rio Grande do Norte,Nordeste,203,2023-10-11,SKU-10889,Eletrônicos,Câmera Digital,5,5602.01,28010.050000000003,Loja Física
+426,Lívia Barros,20,RN,Rio Grande do Norte,Nordeste,392,2023-08-01,SKU-31191,Esporte,Esteira Elétrica,10,1862.8,18628.0,Loja Física
+426,Lívia Barros,20,RN,Rio Grande do Norte,Nordeste,475,2023-08-19,SKU-56364,Casa,Conjunto de Talheres,6,68.89,413.34000000000003,Loja Física
+426,Lívia Barros,20,RN,Rio Grande do Norte,Nordeste,610,2023-09-26,SKU-25095,Brinquedos,Jogo de Tabuleiro,7,190.34,1332.38,Loja Física
+427,Diego Rodrigues,19,RJ,Rio de Janeiro,Sudeste,886,2023-05-16,SKU-19189,Brinquedos,Blocos de Montar,10,167.64,1676.3999999999999,Loja Física
+428,Caio Azevedo,18,PI,Piauí,Nordeste,463,2023-11-09,SKU-56364,Casa,Conjunto de Talheres,9,68.89,620.01,Loja Física
+428,Caio Azevedo,18,PI,Piauí,Nordeste,882,2023-08-03,SKU-19189,Brinquedos,Blocos de Montar,1,167.64,167.64,Loja Física
+428,Caio Azevedo,18,PI,Piauí,Nordeste,890,2023-05-27,SKU-46571,Roupas,Camisa Social,6,166.94,1001.64,Loja Física
+429,Alícia Souza,15,PB,Paraíba,Nordeste,445,2023-09-17,SKU-26460,Casa,Almofada Decorativa,8,73.62,588.96,Loja Física
+429,Alícia Souza,15,PB,Paraíba,Nordeste,880,2023-06-03,SKU-72688,Eletrônicos,Smartphone,3,2718.36,8155.08,Loja Física
+430,Rodrigo Barbosa,6,CE,Ceará,Nordeste,357,2023-03-25,SKU-25095,Brinquedos,Jogo de Tabuleiro,7,190.34,1332.38,Loja Física
+433,Vitor Gabriel da Luz,12,MS,Mato Grosso do Sul,Centro-Oeste,458,2023-06-05,SKU-56364,Casa,Conjunto de Talheres,9,68.89,620.01,Loja Física
+433,Vitor Gabriel da Luz,12,MS,Mato Grosso do Sul,Centro-Oeste,460,2023-08-18,SKU-35933,Esporte,Halteres de Academia,9,249.82,2248.38,Loja Física
+433,Vitor Gabriel da Luz,12,MS,Mato Grosso do Sul,Centro-Oeste,629,2023-12-01,SKU-20895,Casa,Espelho de Parede,2,226.92,453.84,Loja Física
+433,Vitor Gabriel da Luz,12,MS,Mato Grosso do Sul,Centro-Oeste,645,2023-11-12,SKU-74214,Casa,Conjunto de Panelas,10,634.4,6344.0,Loja Física
+433,Vitor Gabriel da Luz,12,MS,Mato Grosso do Sul,Centro-Oeste,699,2023-07-11,SKU-91071,Roupas,Sapatilhas Femininas,3,150.05,450.15000000000003,Loja Física
+434,Sabrina Ramos,4,AM,Amazonas,Norte,293,2023-10-04,SKU-35933,Esporte,Halteres de Academia,9,249.82,2248.38,Loja Física
+434,Sabrina Ramos,4,AM,Amazonas,Norte,353,2023-06-19,SKU-35933,Esporte,Halteres de Academia,6,249.82,1498.92,Loja Física
+435,Kevin Ferreira,9,GO,Goiás,Centro-Oeste,748,2023-07-18,SKU-26460,Casa,Almofada Decorativa,6,73.62,441.72,Loja Física
+435,Kevin Ferreira,9,GO,Goiás,Centro-Oeste,795,2023-07-12,SKU-26460,Casa,Almofada Decorativa,5,73.62,368.1,Loja Física
+435,Kevin Ferreira,9,GO,Goiás,Centro-Oeste,848,2023-07-24,SKU-68873,Casa,Cafeteira Elétrica,2,750.7,1501.4,Loja Física
+435,Kevin Ferreira,9,GO,Goiás,Centro-Oeste,936,2023-12-04,SKU-67575,Esporte,Raquete de Tênis,7,379.94,2659.58,Loja Física
+438,Olivia da Mata,11,MT,Mato Grosso,Centro-Oeste,346,2023-01-23,SKU-22668,Brinquedos,Carrinho de Controle Remoto,6,273.79,1642.7400000000002,Online
+438,Olivia da Mata,11,MT,Mato Grosso,Centro-Oeste,529,2023-07-27,SKU-19189,Brinquedos,Blocos de Montar,1,167.64,167.64,Online
+440,Lorenzo da Rocha,27,TO,Tocantins,Norte,596,2023-12-10,SKU-50582,Eletrônicos,Laptop,5,4526.6,22633.0,Online
+440,Lorenzo da Rocha,27,TO,Tocantins,Norte,953,2023-08-10,SKU-35933,Esporte,Halteres de Academia,4,249.82,999.28,Online
+441,Luigi da Rosa,26,SE,Sergipe,Nordeste,324,2023-04-22,SKU-73390,Casa,Luminária de Mesa,6,35.83,214.98,Online
+441,Luigi da Rosa,26,SE,Sergipe,Nordeste,525,2023-08-31,SKU-11521,Brinquedos,Boneca,1,142.37,142.37,Online
+441,Luigi da Rosa,26,SE,Sergipe,Nordeste,988,2023-09-05,SKU-28878,Roupas,Calça Jeans,6,123.17,739.02,Online
+442,Alícia Fogaça,20,RN,Rio Grande do Norte,Nordeste,723,2023-10-16,SKU-59736,Roupas,Blusa de Moletom,7,154.46,1081.22,Online
+443,Lucca Silva,27,TO,Tocantins,Norte,6,2023-05-27,SKU-10889,Eletrônicos,Câmera Digital,3,5602.01,16806.03,Online
+443,Lucca Silva,27,TO,Tocantins,Norte,367,2023-08-23,SKU-10344,Brinquedos,Brinquedo Educativo,3,79.47,238.41,Online
+443,Lucca Silva,27,TO,Tocantins,Norte,839,2023-02-15,SKU-28878,Roupas,Calça Jeans,1,123.17,123.17,Online
+444,Augusto Gonçalves,23,RR,Roraima,Norte,413,2023-04-28,SKU-86759,Eletrônicos,Smartwatch,9,185.34,1668.06,Online
+444,Augusto Gonçalves,23,RR,Roraima,Norte,560,2023-08-07,SKU-67575,Esporte,Raquete de Tênis,6,379.94,2279.64,Online
+445,João Guilherme da Cruz,15,PB,Paraíba,Nordeste,183,2023-11-06,SKU-19290,Esporte,Bola de Futebol,6,184.44,1106.6399999999999,Online
+445,João Guilherme da Cruz,15,PB,Paraíba,Nordeste,222,2023-08-03,SKU-94109,Brinquedos,Kit de Cozinha Infantil,2,136.43,272.86,Online
+446,Sr. Heitor da Cunha,27,TO,Tocantins,Norte,459,2023-04-02,SKU-31191,Esporte,Esteira Elétrica,2,1862.8,3725.6,Loja Física
+446,Sr. Heitor da Cunha,27,TO,Tocantins,Norte,483,2023-01-06,SKU-53822,Brinquedos,Quebra-cabeça,8,122.47,979.76,Loja Física
+446,Sr. Heitor da Cunha,27,TO,Tocantins,Norte,997,2023-06-23,SKU-28878,Roupas,Calça Jeans,2,123.17,246.34,Loja Física
+446,Sr. Heitor da Cunha,27,TO,Tocantins,Norte,999,2023-06-24,SKU-59806,Casa,Jogo de Lençol,3,498.24,1494.72,Loja Física
+447,Eloah Ramos,22,RO,Rondônia,Norte,132,2023-10-06,SKU-67575,Esporte,Raquete de Tênis,5,379.94,1899.7,Loja Física
+447,Eloah Ramos,22,RO,Rondônia,Norte,682,2023-10-03,SKU-31191,Esporte,Esteira Elétrica,6,1862.8,11176.8,Loja Física
+447,Eloah Ramos,22,RO,Rondônia,Norte,823,2023-04-28,SKU-19189,Brinquedos,Blocos de Montar,2,167.64,335.28,Loja Física
+448,Luiz Fernando Lima,3,AP,Amapá,Norte,192,2023-07-19,SKU-30274,Brinquedos,Kit de Desenho,8,148.7,1189.6,Loja Física
+448,Luiz Fernando Lima,3,AP,Amapá,Norte,915,2023-08-01,SKU-72849,Casa,Cortina Blackout,4,234.54,938.16,Loja Física
+449,Arthur Freitas,12,MS,Mato Grosso do Sul,Centro-Oeste,90,2023-03-24,SKU-21352,Roupas,Saia Midi,8,123.24,985.92,Loja Física
+449,Arthur Freitas,12,MS,Mato Grosso do Sul,Centro-Oeste,516,2023-03-26,SKU-72688,Eletrônicos,Smartphone,7,2718.36,19028.52,Loja Física
+450,Bruno da Rocha,14,PA,Pará,Norte,28,2023-11-02,SKU-26147,Esporte,Skate,10,157.01,1570.1,Online
+450,Bruno da Rocha,14,PA,Pará,Norte,160,2023-08-25,SKU-26460,Casa,Almofada Decorativa,3,73.62,220.86,Online
+450,Bruno da Rocha,14,PA,Pará,Norte,619,2023-11-01,SKU-91071,Roupas,Sapatilhas Femininas,3,150.05,450.15000000000003,Online
+450,Bruno da Rocha,14,PA,Pará,Norte,642,2023-06-11,SKU-68873,Casa,Cafeteira Elétrica,8,750.7,6005.6,Online
+451,Eduardo Alves,7,DF,Distrito Federal,Centro-Oeste,178,2023-06-10,SKU-30676,Brinquedos,Urso de Pelúcia,1,93.4,93.4,Online
+452,Letícia da Rocha,2,AL,Alagoas,Nordeste,282,2023-12-10,SKU-20568,Eletrônicos,Roteador Wi-Fi,1,491.41,491.41,Online
+452,Letícia da Rocha,2,AL,Alagoas,Nordeste,375,2023-12-31,SKU-37873,Casa,Ventilador de Mesa,1,270.78,270.78,Online
+452,Letícia da Rocha,2,AL,Alagoas,Nordeste,624,2023-06-01,SKU-37178,Eletrônicos,Carregador Portátil,9,53.67,483.03000000000003,Online
+453,Laura Campos,20,RN,Rio Grande do Norte,Nordeste,40,2023-12-28,SKU-86759,Eletrônicos,Smartwatch,3,185.34,556.02,Online
+453,Laura Campos,20,RN,Rio Grande do Norte,Nordeste,545,2023-04-03,SKU-72849,Casa,Cortina Blackout,4,234.54,938.16,Online
+454,Dr. Lucas Gabriel da Rosa,6,CE,Ceará,Nordeste,306,2023-01-01,SKU-68595,Roupas,Camiseta Masculina,3,47.57,142.71,Online
+454,Dr. Lucas Gabriel da Rosa,6,CE,Ceará,Nordeste,406,2023-07-09,SKU-36297,Roupas,Jaqueta de Couro,3,1959.53,5878.59,Online
+454,Dr. Lucas Gabriel da Rosa,6,CE,Ceará,Nordeste,518,2023-12-28,SKU-46571,Roupas,Camisa Social,8,166.94,1335.52,Online
+455,Bernardo Silveira,19,RJ,Rio de Janeiro,Sudeste,319,2023-03-13,SKU-47220,Roupas,Tênis Esportivo,1,164.48,164.48,Online
+455,Bernardo Silveira,19,RJ,Rio de Janeiro,Sudeste,522,2023-02-20,SKU-77662,Esporte,Tapete de Yoga,1,80.11,80.11,Online
+455,Bernardo Silveira,19,RJ,Rio de Janeiro,Sudeste,777,2023-01-03,SKU-72849,Casa,Cortina Blackout,2,234.54,469.08,Online
+456,Sarah Ramos,2,AL,Alagoas,Nordeste,294,2023-05-20,SKU-20568,Eletrônicos,Roteador Wi-Fi,1,491.41,491.41,Online
+456,Sarah Ramos,2,AL,Alagoas,Nordeste,635,2023-11-19,SKU-74214,Casa,Conjunto de Panelas,8,634.4,5075.2,Online
+457,Mariana Pinto,15,PB,Paraíba,Nordeste,15,2023-05-08,SKU-50582,Eletrônicos,Laptop,4,4526.6,18106.4,Online
+457,Mariana Pinto,15,PB,Paraíba,Nordeste,618,2023-04-13,SKU-53822,Brinquedos,Quebra-cabeça,9,122.47,1102.23,Online
+458,Enrico Cardoso,15,PB,Paraíba,Nordeste,304,2023-06-25,SKU-26460,Casa,Almofada Decorativa,6,73.62,441.72,Online
+458,Enrico Cardoso,15,PB,Paraíba,Nordeste,345,2023-03-16,SKU-59736,Roupas,Blusa de Moletom,2,154.46,308.92,Online
+458,Enrico Cardoso,15,PB,Paraíba,Nordeste,457,2023-03-10,SKU-79560,Brinquedos,Patinete Infantil,1,131.58,131.58,Online
+459,Alexia Nascimento,15,PB,Paraíba,Nordeste,431,2023-11-08,SKU-49210,Eletrônicos,Tablet,8,715.28,5722.24,Online
+459,Alexia Nascimento,15,PB,Paraíba,Nordeste,571,2023-04-22,SKU-30676,Brinquedos,Urso de Pelúcia,8,93.4,747.2,Online
+459,Alexia Nascimento,15,PB,Paraíba,Nordeste,959,2023-01-07,SKU-42823,Eletrônicos,TV LED,7,4350.2,30451.399999999998,Online
+461,Agatha da Rosa,22,RO,Rondônia,Norte,258,2023-09-20,SKU-22668,Brinquedos,Carrinho de Controle Remoto,1,273.79,273.79,Loja Física
+462,Davi Luiz Moreira,1,AC,Acre,Norte,638,2023-07-16,SKU-74214,Casa,Conjunto de Panelas,5,634.4,3172.0,Online
+463,Otávio Nunes,4,AM,Amazonas,Norte,421,2023-08-01,SKU-19290,Esporte,Bola de Futebol,9,184.44,1659.96,Loja Física
+465,Matheus Lima,22,RO,Rondônia,Norte,707,2023-10-30,SKU-59736,Roupas,Blusa de Moletom,7,154.46,1081.22,Online
+466,Bruna Cavalcanti,9,GO,Goiás,Centro-Oeste,912,2023-07-10,SKU-56364,Casa,Conjunto de Talheres,1,68.89,68.89,Loja Física
+467,Alexia Cardoso,18,PI,Piauí,Nordeste,114,2023-06-25,SKU-74214,Casa,Conjunto de Panelas,2,634.4,1268.8,Online
+467,Alexia Cardoso,18,PI,Piauí,Nordeste,747,2023-06-27,SKU-26147,Esporte,Skate,5,157.01,785.05,Online
+467,Alexia Cardoso,18,PI,Piauí,Nordeste,918,2023-04-22,SKU-91071,Roupas,Sapatilhas Femininas,4,150.05,600.2,Online
+468,Dra. Melissa Campos,23,RR,Roraima,Norte,107,2023-01-11,SKU-30676,Brinquedos,Urso de Pelúcia,7,93.4,653.8000000000001,Loja Física
+468,Dra. Melissa Campos,23,RR,Roraima,Norte,594,2023-07-03,SKU-25095,Brinquedos,Jogo de Tabuleiro,4,190.34,761.36,Loja Física
+468,Dra. Melissa Campos,23,RR,Roraima,Norte,810,2023-12-03,SKU-20895,Casa,Espelho de Parede,7,226.92,1588.4399999999998,Loja Física
+468,Dra. Melissa Campos,23,RR,Roraima,Norte,952,2023-12-22,SKU-68595,Roupas,Camiseta Masculina,5,47.57,237.85,Loja Física
+469,Sr. Luiz Otávio Freitas,21,RS,Rio Grande do Sul,Sul,961,2023-11-26,SKU-99850,Roupas,Vestido Feminino,2,354.77,709.54,Loja Física
+470,Maitê Silveira,11,MT,Mato Grosso,Centro-Oeste,690,2023-12-04,SKU-19290,Esporte,Bola de Futebol,4,184.44,737.76,Online
+470,Maitê Silveira,11,MT,Mato Grosso,Centro-Oeste,798,2023-06-28,SKU-73390,Casa,Luminária de Mesa,6,35.83,214.98,Online
+471,Marcelo Nogueira,12,MS,Mato Grosso do Sul,Centro-Oeste,182,2023-10-16,SKU-59736,Roupas,Blusa de Moletom,4,154.46,617.84,Online
+471,Marcelo Nogueira,12,MS,Mato Grosso do Sul,Centro-Oeste,244,2023-12-16,SKU-30274,Brinquedos,Kit de Desenho,9,148.7,1338.3,Online
+471,Marcelo Nogueira,12,MS,Mato Grosso do Sul,Centro-Oeste,772,2023-08-23,SKU-26460,Casa,Almofada Decorativa,8,73.62,588.96,Online
+471,Marcelo Nogueira,12,MS,Mato Grosso do Sul,Centro-Oeste,855,2023-03-23,SKU-35933,Esporte,Halteres de Academia,9,249.82,2248.38,Online
+472,Pedro Miguel da Cunha,3,AP,Amapá,Norte,171,2023-01-13,SKU-94109,Brinquedos,Kit de Cozinha Infantil,4,136.43,545.72,Loja Física
+472,Pedro Miguel da Cunha,3,AP,Amapá,Norte,347,2023-03-28,SKU-50582,Eletrônicos,Laptop,9,4526.6,40739.4,Loja Física
+473,Dr. André Peixoto,16,PR,Paraná,Sul,301,2023-11-03,SKU-19290,Esporte,Bola de Futebol,5,184.44,922.2,Online
+474,Nicolas Barbosa,23,RR,Roraima,Norte,205,2023-04-27,SKU-72849,Casa,Cortina Blackout,1,234.54,234.54,Online
+475,Olivia Lopes,10,MA,Maranhão,Nordeste,365,2023-05-19,SKU-47207,Esporte,Bicicleta Mountain Bike,7,1671.59,11701.13,Loja Física
+475,Olivia Lopes,10,MA,Maranhão,Nordeste,741,2023-06-29,SKU-72688,Eletrônicos,Smartphone,1,2718.36,2718.36,Loja Física
+476,Alícia das Neves,12,MS,Mato Grosso do Sul,Centro-Oeste,158,2023-03-05,SKU-46571,Roupas,Camisa Social,4,166.94,667.76,Online
+476,Alícia das Neves,12,MS,Mato Grosso do Sul,Centro-Oeste,226,2023-10-02,SKU-37178,Eletrônicos,Carregador Portátil,5,53.67,268.35,Online
+476,Alícia das Neves,12,MS,Mato Grosso do Sul,Centro-Oeste,657,2023-02-22,SKU-19189,Brinquedos,Blocos de Montar,10,167.64,1676.3999999999999,Online
+477,Dra. Larissa da Mota,3,AP,Amapá,Norte,318,2023-05-14,SKU-37178,Eletrônicos,Carregador Portátil,1,53.67,53.67,Loja Física
+477,Dra. Larissa da Mota,3,AP,Amapá,Norte,383,2023-05-21,SKU-46571,Roupas,Camisa Social,5,166.94,834.7,Loja Física
+477,Dra. Larissa da Mota,3,AP,Amapá,Norte,739,2023-09-18,SKU-30274,Brinquedos,Kit de Desenho,1,148.7,148.7,Loja Física
+477,Dra. Larissa da Mota,3,AP,Amapá,Norte,927,2023-09-30,SKU-77662,Esporte,Tapete de Yoga,7,80.11,560.77,Loja Física
+478,Ana Carolina da Cunha,11,MT,Mato Grosso,Centro-Oeste,291,2023-11-20,SKU-50582,Eletrônicos,Laptop,6,4526.6,27159.600000000002,Online
+478,Ana Carolina da Cunha,11,MT,Mato Grosso,Centro-Oeste,944,2023-06-04,SKU-31191,Esporte,Esteira Elétrica,3,1862.8,5588.4,Online
+478,Ana Carolina da Cunha,11,MT,Mato Grosso,Centro-Oeste,970,2023-12-31,SKU-68595,Roupas,Camiseta Masculina,1,47.57,47.57,Online
+479,Bruno da Luz,16,PR,Paraná,Sul,832,2023-04-08,SKU-19290,Esporte,Bola de Futebol,7,184.44,1291.08,Online
+479,Bruno da Luz,16,PR,Paraná,Sul,901,2023-08-05,SKU-11521,Brinquedos,Boneca,6,142.37,854.22,Online
+479,Bruno da Luz,16,PR,Paraná,Sul,978,2023-08-14,SKU-77662,Esporte,Tapete de Yoga,7,80.11,560.77,Online
+480,Raul da Rosa,18,PI,Piauí,Nordeste,16,2023-12-20,SKU-92162,Eletrônicos,Alto-falante Bluetooth,4,1198.31,4793.24,Loja Física
+480,Raul da Rosa,18,PI,Piauí,Nordeste,170,2023-03-29,SKU-25095,Brinquedos,Jogo de Tabuleiro,7,190.34,1332.38,Loja Física
+480,Raul da Rosa,18,PI,Piauí,Nordeste,734,2023-03-16,SKU-94109,Brinquedos,Kit de Cozinha Infantil,9,136.43,1227.8700000000001,Loja Física
+481,Ana Sophia Campos,12,MS,Mato Grosso do Sul,Centro-Oeste,198,2023-10-06,SKU-97371,Esporte,Patins,3,237.06,711.1800000000001,Online
+481,Ana Sophia Campos,12,MS,Mato Grosso do Sul,Centro-Oeste,403,2023-06-29,SKU-30274,Brinquedos,Kit de Desenho,3,148.7,446.09999999999997,Online
+481,Ana Sophia Campos,12,MS,Mato Grosso do Sul,Centro-Oeste,538,2023-03-13,SKU-73390,Casa,Luminária de Mesa,1,35.83,35.83,Online
+481,Ana Sophia Campos,12,MS,Mato Grosso do Sul,Centro-Oeste,759,2023-11-20,SKU-28878,Roupas,Calça Jeans,5,123.17,615.85,Online
+481,Ana Sophia Campos,12,MS,Mato Grosso do Sul,Centro-Oeste,917,2023-05-26,SKU-28878,Roupas,Calça Jeans,8,123.17,985.36,Online
+482,Lucas Gabriel da Cruz,4,AM,Amazonas,Norte,665,2023-05-30,SKU-69331,Casa,Organizador de Gavetas,6,136.47,818.8199999999999,Loja Física
+482,Lucas Gabriel da Cruz,4,AM,Amazonas,Norte,960,2023-03-04,SKU-72688,Eletrônicos,Smartphone,1,2718.36,2718.36,Loja Física
+483,João Guilherme Gomes,19,RJ,Rio de Janeiro,Sudeste,39,2023-05-16,SKU-10889,Eletrônicos,Câmera Digital,7,5602.01,39214.07,Loja Física
+484,Thales Nunes,26,SE,Sergipe,Nordeste,260,2023-10-06,SKU-35933,Esporte,Halteres de Academia,1,249.82,249.82,Online
+484,Thales Nunes,26,SE,Sergipe,Nordeste,491,2023-09-25,SKU-49210,Eletrônicos,Tablet,9,715.28,6437.5199999999995,Online
+484,Thales Nunes,26,SE,Sergipe,Nordeste,579,2023-10-01,SKU-46571,Roupas,Camisa Social,5,166.94,834.7,Online
+484,Thales Nunes,26,SE,Sergipe,Nordeste,637,2023-06-09,SKU-30274,Brinquedos,Kit de Desenho,10,148.7,1487.0,Online
+485,Kaique Azevedo,3,AP,Amapá,Norte,710,2023-12-06,SKU-69331,Casa,Organizador de Gavetas,7,136.47,955.29,Loja Física
+485,Kaique Azevedo,3,AP,Amapá,Norte,899,2023-02-27,SKU-56364,Casa,Conjunto de Talheres,5,68.89,344.45,Loja Física
+487,Lucas Costela,17,PE,Pernambuco,Nordeste,79,2023-10-18,SKU-47207,Esporte,Bicicleta Mountain Bike,6,1671.59,10029.539999999999,Loja Física
+487,Lucas Costela,17,PE,Pernambuco,Nordeste,157,2023-09-06,SKU-26147,Esporte,Skate,1,157.01,157.01,Loja Física
+487,Lucas Costela,17,PE,Pernambuco,Nordeste,564,2023-07-03,SKU-69331,Casa,Organizador de Gavetas,7,136.47,955.29,Loja Física
+488,Emanuelly da Rosa,7,DF,Distrito Federal,Centro-Oeste,494,2023-04-17,SKU-59806,Casa,Jogo de Lençol,2,498.24,996.48,Online
+488,Emanuelly da Rosa,7,DF,Distrito Federal,Centro-Oeste,603,2023-09-02,SKU-31191,Esporte,Esteira Elétrica,3,1862.8,5588.4,Online
+489,Elisa da Luz,27,TO,Tocantins,Norte,118,2023-04-30,SKU-67575,Esporte,Raquete de Tênis,1,379.94,379.94,Online
+489,Elisa da Luz,27,TO,Tocantins,Norte,781,2023-04-29,SKU-69331,Casa,Organizador de Gavetas,8,136.47,1091.76,Online
+489,Elisa da Luz,27,TO,Tocantins,Norte,805,2023-11-09,SKU-22668,Brinquedos,Carrinho de Controle Remoto,1,273.79,273.79,Online
+490,Joana da Cunha,17,PE,Pernambuco,Nordeste,850,2023-03-12,SKU-26147,Esporte,Skate,9,157.01,1413.09,Online
+493,Nicolas Porto,14,PA,Pará,Norte,473,2023-09-21,SKU-79560,Brinquedos,Patinete Infantil,9,131.58,1184.22,Loja Física
+493,Nicolas Porto,14,PA,Pará,Norte,636,2023-04-18,SKU-47220,Roupas,Tênis Esportivo,3,164.48,493.43999999999994,Loja Física
+495,Melissa Moura,25,SP,São Paulo,Sudeste,782,2023-11-21,SKU-94109,Brinquedos,Kit de Cozinha Infantil,2,136.43,272.86,Online
+495,Melissa Moura,25,SP,São Paulo,Sudeste,824,2023-05-04,SKU-49210,Eletrônicos,Tablet,3,715.28,2145.84,Online
+496,Amanda da Mata,1,AC,Acre,Norte,72,2023-04-26,SKU-37178,Eletrônicos,Carregador Portátil,6,53.67,322.02,Loja Física
+496,Amanda da Mata,1,AC,Acre,Norte,891,2023-01-15,SKU-10344,Brinquedos,Brinquedo Educativo,1,79.47,79.47,Loja Física
+497,Isabella da Luz,24,SC,Santa Catarina,Sul,21,2023-05-14,SKU-25095,Brinquedos,Jogo de Tabuleiro,4,190.34,761.36,Loja Física
+497,Isabella da Luz,24,SC,Santa Catarina,Sul,910,2023-08-26,SKU-91071,Roupas,Sapatilhas Femininas,6,150.05,900.3000000000001,Loja Física
+498,Vitor Gabriel Pereira,18,PI,Piauí,Nordeste,121,2023-04-02,SKU-56131,Roupas,Shorts de Verão,3,112.14,336.42,Loja Física
+498,Vitor Gabriel Pereira,18,PI,Piauí,Nordeste,424,2023-06-17,SKU-37178,Eletrônicos,Carregador Portátil,7,53.67,375.69,Loja Física
+499,Mariana da Paz,14,PA,Pará,Norte,117,2023-01-25,SKU-20895,Casa,Espelho de Parede,10,226.92,2269.2,Online
+499,Mariana da Paz,14,PA,Pará,Norte,184,2023-03-07,SKU-53822,Brinquedos,Quebra-cabeça,5,122.47,612.35,Online
+499,Mariana da Paz,14,PA,Pará,Norte,257,2023-09-01,SKU-19290,Esporte,Bola de Futebol,10,184.44,1844.4,Online
+499,Mariana da Paz,14,PA,Pará,Norte,364,2023-12-30,SKU-79560,Brinquedos,Patinete Infantil,7,131.58,921.0600000000001,Online
+500,Francisco Correia,24,SC,Santa Catarina,Sul,417,2023-06-13,SKU-37178,Eletrônicos,Carregador Portátil,9,53.67,483.03000000000003,Loja Física
+500,Francisco Correia,24,SC,Santa Catarina,Sul,609,2023-11-24,SKU-37178,Eletrônicos,Carregador Portátil,9,53.67,483.03000000000003,Loja Física

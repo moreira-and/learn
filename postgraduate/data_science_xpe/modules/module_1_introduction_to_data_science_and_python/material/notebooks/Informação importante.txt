@@ -1,9 +1,0 @@
-Olá como você esta? Tudo bem?
-
-As células dos projetos estão vazias de propósito, para que você possa criar seus próprios códigos e explorar a ferramenta de forma mais ativa.
-
-Ao escrever o código, desenvolvemos memória muscular e nos envolvemos mais no aprendizado. Acredito que essa prática é essencial para o domínio das tecnologias.
-
-Digitar o código, em vez de apenas rodar ou copiar, ajuda a entender melhor os conceitos e a aprimorar a capacidade de resolver problemas de forma independente.
-
-Um grande abraço! E até logo! 
